@@ -1,0 +1,6 @@
+tweepy
+python-Levenshtein
+fuzzywuzzy
+google-cloud-storage
+Flask
+gunicorn
