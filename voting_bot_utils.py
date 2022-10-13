@@ -172,11 +172,6 @@ def prepare_responses(prepared_responses, issues_filenames):
         # load the correct file
         fname = issues_filenames[subject]
 
-        print(fname)
-
-        #         with open(fname,'r') as f:
-        #             vote_data_all = json.load(f)
-
         vote_data_all = get_voting_data_from_cloud(fname)
 
         vote_data = vote_data_all['vote_data']
@@ -195,7 +190,10 @@ def prepare_responses(prepared_responses, issues_filenames):
 
             if mp_checked_name != MP_NOT_FOUND:
 
-                reply_name = original_tweet.in_reply_to_screen_name
+                if original_tweet.in_reply_to_status_id is None:
+                    reply_name = original_tweet.author.screen_name
+                else:
+                    reply_name = original_tweet.in_reply_to_screen_name
 
                 response_tweet = format_response(vote_data, mp_checked_name, vote_url, reply_name)
                 # print(response_tweet)
