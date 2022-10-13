@@ -136,8 +136,12 @@ def clean_tweet_of_users(tweet_text: str, user_list: list) -> str:
 
 def filter_tweets(twitter_objects, all_issues_list, master_issues_dict):
     prepare_responses = defaultdict(list)
+    max_id=1
 
     for obj in twitter_objects:
+
+        if obj.id > max_id:
+            max_id = obj.id
 
         # clean tweets
         message = clean_tweet_of_users(obj.full_text,
@@ -161,7 +165,7 @@ def filter_tweets(twitter_objects, all_issues_list, master_issues_dict):
         else:
             print('Incorrect format')
 
-    return prepare_responses
+    return prepare_responses, max_id
 
 
 def prepare_responses(prepared_responses, issues_filenames):
