@@ -33,15 +33,10 @@ def bot_process():
 
     since_id = get_since_id_from_cloud()
 
-    mentions = api.mentions_timeline(tweet_mode='extended', trim_user=True, count=100, since_id=since_id)
+    mentions = api.mentions_timeline(tweet_mode='extended', trim_user=False, count=100, since_id=since_id)
     log['Mentions'] = len(mentions)
 
     if len(mentions) > 0:
-
-        if since_id is None:
-            max_id = 1
-        else:
-            max_id = since_id
 
         master_issues = get_master_issue_json_from_cloud()
 
@@ -50,7 +45,7 @@ def bot_process():
         else:
             master_issue_dict, all_issues, issues_filenames = prepare_master_issues_json(master_issues)
 
-            filtered_tweets = filter_tweets(mentions, all_issues, master_issue_dict)
+            filtered_tweets, max_id = filter_tweets(mentions, all_issues, master_issue_dict)
             log['Subjects detected'] = len(filtered_tweets.keys())
 
             # To do - respond to unrecognised subjects
@@ -68,7 +63,7 @@ def bot_process():
                 else:
                     api.update_status(status=prepared_tweet['response_text'],
                                       in_reply_to_status_id=prepared_tweet['reply_id_str'])
-
+            log['New Max ID'] = max_id
             put_since_id_to_cloud(since_id=max_id)
 
     log_data = get_log_data_from_cloud()

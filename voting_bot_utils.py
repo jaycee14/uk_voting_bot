@@ -151,8 +151,12 @@ def clean_tweet_of_users(tweet_text: str, user_list: list) -> str:
 
 def filter_tweets(twitter_objects, all_issues_list, master_issues_dict):
     prepare_responses = defaultdict(list)
+    max_id=1
 
     for obj in twitter_objects:
+
+        if obj.id > max_id:
+            max_id = obj.id
 
         # clean tweets
         message = clean_tweet_of_users(obj.full_text,
@@ -176,7 +180,7 @@ def filter_tweets(twitter_objects, all_issues_list, master_issues_dict):
         else:
             print('Incorrect format')
 
-    return prepare_responses
+    return prepare_responses, max_id
 
 
 def prepare_responses(prepared_responses, issues_filenames):
@@ -186,11 +190,6 @@ def prepare_responses(prepared_responses, issues_filenames):
 
         # load the correct file
         fname = issues_filenames[subject]
-
-        print(fname)
-
-        #         with open(fname,'r') as f:
-        #             vote_data_all = json.load(f)
 
         vote_data_all = get_voting_data_from_cloud(fname)
 
@@ -210,7 +209,10 @@ def prepare_responses(prepared_responses, issues_filenames):
 
             if mp_checked_name != MP_NOT_FOUND:
 
-                reply_name = original_tweet.in_reply_to_screen_name
+                if original_tweet.in_reply_to_status_id is None:
+                    reply_name = original_tweet.author.screen_name
+                else:
+                    reply_name = original_tweet.in_reply_to_screen_name
 
                 response_tweet = format_response(vote_data, mp_checked_name, vote_url, reply_name)
                 # print(response_tweet)
