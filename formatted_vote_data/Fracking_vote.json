@@ -1,0 +1,4562 @@
+{
+  "vote_url": "https://votes.parliament.uk/Votes/Commons/Division/1372",
+  "vote_data_retrieved": "2022-10-20",
+  "title": "Fracking",
+  "keywords": [
+    "fracking",
+    "shale"
+  ],
+  "description": "MPs vote to ban shale gas fracking.",
+  "vote_data": {
+    "diane abbott": {
+      "Member": "Diane Abbott",
+      "Party": "Labour",
+      "Constituency": "Hackney North and Stoke Newington",
+      "Vote": "Aye",
+      "lower_name": "diane abbott"
+    },
+    "debbie abrahams": {
+      "Member": "Debbie Abrahams",
+      "Party": "Labour",
+      "Constituency": "Oldham East and Saddleworth",
+      "Vote": "No Vote Recorded",
+      "lower_name": "debbie abrahams"
+    },
+    "nigel adams": {
+      "Member": "Nigel Adams",
+      "Party": "Conservative",
+      "Constituency": "Selby and Ainsty",
+      "Vote": "No Vote Recorded",
+      "lower_name": "nigel adams"
+    },
+    "bim afolami": {
+      "Member": "Bim Afolami",
+      "Party": "Conservative",
+      "Constituency": "Hitchin and Harpenden",
+      "Vote": "No",
+      "lower_name": "bim afolami"
+    },
+    "adam afriyie": {
+      "Member": "Adam Afriyie",
+      "Party": "Conservative",
+      "Constituency": "Windsor",
+      "Vote": "No",
+      "lower_name": "adam afriyie"
+    },
+    "nickie aiken": {
+      "Member": "Nickie Aiken",
+      "Party": "Conservative",
+      "Constituency": "Cities of London and Westminster",
+      "Vote": "No",
+      "lower_name": "nickie aiken"
+    },
+    "peter aldous": {
+      "Member": "Peter Aldous",
+      "Party": "Conservative",
+      "Constituency": "Waveney",
+      "Vote": "No",
+      "lower_name": "peter aldous"
+    },
+    "rushanara ali": {
+      "Member": "Rushanara Ali",
+      "Party": "Labour",
+      "Constituency": "Bethnal Green and Bow",
+      "Vote": "Aye",
+      "lower_name": "rushanara ali"
+    },
+    "tahir ali": {
+      "Member": "Tahir Ali",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Hall Green",
+      "Vote": "Aye",
+      "lower_name": "tahir ali"
+    },
+    "lucy allan": {
+      "Member": "Lucy Allan",
+      "Party": "Conservative",
+      "Constituency": "Telford",
+      "Vote": "No",
+      "lower_name": "lucy allan"
+    },
+    "rosena allin-khan": {
+      "Member": "Rosena Allin-Khan",
+      "Party": "Labour",
+      "Constituency": "Tooting",
+      "Vote": "Aye",
+      "lower_name": "rosena allin-khan"
+    },
+    "mike amesbury": {
+      "Member": "Mike Amesbury",
+      "Party": "Labour",
+      "Constituency": "Weaver Vale",
+      "Vote": "Aye",
+      "lower_name": "mike amesbury"
+    },
+    "fleur anderson": {
+      "Member": "Fleur Anderson",
+      "Party": "Labour",
+      "Constituency": "Putney",
+      "Vote": "No Vote Recorded",
+      "lower_name": "fleur anderson"
+    },
+    "lee anderson": {
+      "Member": "Lee Anderson",
+      "Party": "Conservative",
+      "Constituency": "Ashfield",
+      "Vote": "No",
+      "lower_name": "lee anderson"
+    },
+    "stuart anderson": {
+      "Member": "Stuart Anderson",
+      "Party": "Conservative",
+      "Constituency": "Wolverhampton South West",
+      "Vote": "No",
+      "lower_name": "stuart anderson"
+    },
+    "stuart andrew": {
+      "Member": "Stuart Andrew",
+      "Party": "Conservative",
+      "Constituency": "Pudsey",
+      "Vote": "No Vote Recorded",
+      "lower_name": "stuart andrew"
+    },
+    "caroline ansell": {
+      "Member": "Caroline Ansell",
+      "Party": "Conservative",
+      "Constituency": "Eastbourne",
+      "Vote": "No",
+      "lower_name": "caroline ansell"
+    },
+    "tonia antoniazzi": {
+      "Member": "Tonia Antoniazzi",
+      "Party": "Labour",
+      "Constituency": "Gower",
+      "Vote": "No Vote Recorded",
+      "lower_name": "tonia antoniazzi"
+    },
+    "edward argar": {
+      "Member": "Edward Argar",
+      "Party": "Conservative",
+      "Constituency": "Charnwood",
+      "Vote": "No",
+      "lower_name": "edward argar"
+    },
+    "jonathan ashworth": {
+      "Member": "Jonathan Ashworth",
+      "Party": "Labour",
+      "Constituency": "Leicester South",
+      "Vote": "Aye",
+      "lower_name": "jonathan ashworth"
+    },
+    "sarah atherton": {
+      "Member": "Sarah Atherton",
+      "Party": "Conservative",
+      "Constituency": "Wrexham",
+      "Vote": "No",
+      "lower_name": "sarah atherton"
+    },
+    "victoria atkins": {
+      "Member": "Victoria Atkins",
+      "Party": "Conservative",
+      "Constituency": "Louth and Horncastle",
+      "Vote": "No",
+      "lower_name": "victoria atkins"
+    },
+    "gareth bacon": {
+      "Member": "Gareth Bacon",
+      "Party": "Conservative",
+      "Constituency": "Orpington",
+      "Vote": "No Vote Recorded",
+      "lower_name": "gareth bacon"
+    },
+    "richard bacon": {
+      "Member": "Richard Bacon",
+      "Party": "Conservative",
+      "Constituency": "South Norfolk",
+      "Vote": "No",
+      "lower_name": "richard bacon"
+    },
+    "kemi badenoch": {
+      "Member": "Kemi Badenoch",
+      "Party": "Conservative",
+      "Constituency": "Saffron Walden",
+      "Vote": "No",
+      "lower_name": "kemi badenoch"
+    },
+    "shaun bailey": {
+      "Member": "Shaun Bailey",
+      "Party": "Conservative",
+      "Constituency": "West Bromwich West",
+      "Vote": "No",
+      "lower_name": "shaun bailey"
+    },
+    "siobhan baillie": {
+      "Member": "Siobhan Baillie",
+      "Party": "Conservative",
+      "Constituency": "Stroud",
+      "Vote": "No Vote Recorded",
+      "lower_name": "siobhan baillie"
+    },
+    "duncan baker": {
+      "Member": "Duncan Baker",
+      "Party": "Conservative",
+      "Constituency": "North Norfolk",
+      "Vote": "No",
+      "lower_name": "duncan baker"
+    },
+    "steve baker": {
+      "Member": "Steve Baker",
+      "Party": "Conservative",
+      "Constituency": "Wycombe",
+      "Vote": "No",
+      "lower_name": "steve baker"
+    },
+    "harriett baldwin": {
+      "Member": "Harriett Baldwin",
+      "Party": "Conservative",
+      "Constituency": "West Worcestershire",
+      "Vote": "No",
+      "lower_name": "harriett baldwin"
+    },
+    "steve barclay": {
+      "Member": "Steve Barclay",
+      "Party": "Conservative",
+      "Constituency": "North East Cambridgeshire",
+      "Vote": "No",
+      "lower_name": "steve barclay"
+    },
+    "hannah bardell": {
+      "Member": "Hannah Bardell",
+      "Party": "Scottish National Party",
+      "Constituency": "Livingston",
+      "Vote": "Aye",
+      "lower_name": "hannah bardell"
+    },
+    "paula barker": {
+      "Member": "Paula Barker",
+      "Party": "Labour",
+      "Constituency": "Liverpool, Wavertree",
+      "Vote": "Aye",
+      "lower_name": "paula barker"
+    },
+    "john baron": {
+      "Member": "John Baron",
+      "Party": "Conservative",
+      "Constituency": "Basildon and Billericay",
+      "Vote": "No",
+      "lower_name": "john baron"
+    },
+    "simon baynes": {
+      "Member": "Simon Baynes",
+      "Party": "Conservative",
+      "Constituency": "Clwyd South",
+      "Vote": "No",
+      "lower_name": "simon baynes"
+    },
+    "margaret beckett": {
+      "Member": "Margaret Beckett",
+      "Party": "Labour",
+      "Constituency": "Derby South",
+      "Vote": "Aye",
+      "lower_name": "margaret beckett"
+    },
+    "\u00f3rfhlaith begley": {
+      "Member": "\u00d3rfhlaith Begley",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "West Tyrone",
+      "Vote": "No Vote Recorded",
+      "lower_name": "\u00f3rfhlaith begley"
+    },
+    "apsana begum": {
+      "Member": "Apsana Begum",
+      "Party": "Labour",
+      "Constituency": "Poplar and Limehouse",
+      "Vote": "No Vote Recorded",
+      "lower_name": "apsana begum"
+    },
+    "aaron bell": {
+      "Member": "Aaron Bell",
+      "Party": "Conservative",
+      "Constituency": "Newcastle-under-Lyme",
+      "Vote": "No",
+      "lower_name": "aaron bell"
+    },
+    "hilary benn": {
+      "Member": "Hilary Benn",
+      "Party": "Labour",
+      "Constituency": "Leeds Central",
+      "Vote": "Aye",
+      "lower_name": "hilary benn"
+    },
+    "scott benton": {
+      "Member": "Scott Benton",
+      "Party": "Conservative",
+      "Constituency": "Blackpool South",
+      "Vote": "No",
+      "lower_name": "scott benton"
+    },
+    "paul beresford": {
+      "Member": "Paul Beresford",
+      "Party": "Conservative",
+      "Constituency": "Mole Valley",
+      "Vote": "No",
+      "lower_name": "paul beresford"
+    },
+    "jake berry": {
+      "Member": "Jake Berry",
+      "Party": "Conservative",
+      "Constituency": "Rossendale and Darwen",
+      "Vote": "No",
+      "lower_name": "jake berry"
+    },
+    "clive betts": {
+      "Member": "Clive Betts",
+      "Party": "Labour",
+      "Constituency": "Sheffield South East",
+      "Vote": "Aye",
+      "lower_name": "clive betts"
+    },
+    "saqib bhatti": {
+      "Member": "Saqib Bhatti",
+      "Party": "Conservative",
+      "Constituency": "Meriden",
+      "Vote": "No",
+      "lower_name": "saqib bhatti"
+    },
+    "mhairi black": {
+      "Member": "Mhairi Black",
+      "Party": "Scottish National Party",
+      "Constituency": "Paisley and Renfrewshire South",
+      "Vote": "No Vote Recorded",
+      "lower_name": "mhairi black"
+    },
+    "ian blackford": {
+      "Member": "Ian Blackford",
+      "Party": "Scottish National Party",
+      "Constituency": "Ross, Skye and Lochaber",
+      "Vote": "Aye",
+      "lower_name": "ian blackford"
+    },
+    "bob blackman": {
+      "Member": "Bob Blackman",
+      "Party": "Conservative",
+      "Constituency": "Harrow East",
+      "Vote": "No",
+      "lower_name": "bob blackman"
+    },
+    "kirsty blackman": {
+      "Member": "Kirsty Blackman",
+      "Party": "Scottish National Party",
+      "Constituency": "Aberdeen North",
+      "Vote": "No Vote Recorded",
+      "lower_name": "kirsty blackman"
+    },
+    "olivia blake": {
+      "Member": "Olivia Blake",
+      "Party": "Labour",
+      "Constituency": "Sheffield, Hallam",
+      "Vote": "Aye",
+      "lower_name": "olivia blake"
+    },
+    "paul blomfield": {
+      "Member": "Paul Blomfield",
+      "Party": "Labour",
+      "Constituency": "Sheffield Central",
+      "Vote": "Aye",
+      "lower_name": "paul blomfield"
+    },
+    "crispin blunt": {
+      "Member": "Crispin Blunt",
+      "Party": "Conservative",
+      "Constituency": "Reigate",
+      "Vote": "No",
+      "lower_name": "crispin blunt"
+    },
+    "peter bone": {
+      "Member": "Peter Bone",
+      "Party": "Conservative",
+      "Constituency": "Wellingborough",
+      "Vote": "No",
+      "lower_name": "peter bone"
+    },
+    "steven bonnar": {
+      "Member": "Steven Bonnar",
+      "Party": "Scottish National Party",
+      "Constituency": "Coatbridge, Chryston and Bellshill",
+      "Vote": "Aye",
+      "lower_name": "steven bonnar"
+    },
+    "peter bottomley": {
+      "Member": "Peter Bottomley",
+      "Party": "Conservative",
+      "Constituency": "Worthing West",
+      "Vote": "No",
+      "lower_name": "peter bottomley"
+    },
+    "andrew bowie": {
+      "Member": "Andrew Bowie",
+      "Party": "Conservative",
+      "Constituency": "West Aberdeenshire and Kincardine",
+      "Vote": "No",
+      "lower_name": "andrew bowie"
+    },
+    "ben bradley": {
+      "Member": "Ben Bradley",
+      "Party": "Conservative",
+      "Constituency": "Mansfield",
+      "Vote": "No",
+      "lower_name": "ben bradley"
+    },
+    "karen bradley": {
+      "Member": "Karen Bradley",
+      "Party": "Conservative",
+      "Constituency": "Staffordshire Moorlands",
+      "Vote": "No",
+      "lower_name": "karen bradley"
+    },
+    "ben bradshaw": {
+      "Member": "Ben Bradshaw",
+      "Party": "Labour",
+      "Constituency": "Exeter",
+      "Vote": "Aye",
+      "lower_name": "ben bradshaw"
+    },
+    "mickey brady": {
+      "Member": "Mickey Brady",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "Newry and Armagh",
+      "Vote": "No Vote Recorded",
+      "lower_name": "mickey brady"
+    },
+    "graham brady": {
+      "Member": "Graham Brady",
+      "Party": "Conservative",
+      "Constituency": "Altrincham and Sale West",
+      "Vote": "No",
+      "lower_name": "graham brady"
+    },
+    "suella braverman": {
+      "Member": "Suella Braverman",
+      "Party": "Conservative",
+      "Constituency": "Fareham",
+      "Vote": "No",
+      "lower_name": "suella braverman"
+    },
+    "kevin brennan": {
+      "Member": "Kevin Brennan",
+      "Party": "Labour",
+      "Constituency": "Cardiff West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "kevin brennan"
+    },
+    "jack brereton": {
+      "Member": "Jack Brereton",
+      "Party": "Conservative",
+      "Constituency": "Stoke-on-Trent South",
+      "Vote": "No",
+      "lower_name": "jack brereton"
+    },
+    "andrew bridgen": {
+      "Member": "Andrew Bridgen",
+      "Party": "Conservative",
+      "Constituency": "North West Leicestershire",
+      "Vote": "No",
+      "lower_name": "andrew bridgen"
+    },
+    "steve brine": {
+      "Member": "Steve Brine",
+      "Party": "Conservative",
+      "Constituency": "Winchester",
+      "Vote": "No",
+      "lower_name": "steve brine"
+    },
+    "paul bristow": {
+      "Member": "Paul Bristow",
+      "Party": "Conservative",
+      "Constituency": "Peterborough",
+      "Vote": "No",
+      "lower_name": "paul bristow"
+    },
+    "sara britcliffe": {
+      "Member": "Sara Britcliffe",
+      "Party": "Conservative",
+      "Constituency": "Hyndburn",
+      "Vote": "No",
+      "lower_name": "sara britcliffe"
+    },
+    "deidre brock": {
+      "Member": "Deidre Brock",
+      "Party": "Scottish National Party",
+      "Constituency": "Edinburgh North and Leith",
+      "Vote": "Aye",
+      "lower_name": "deidre brock"
+    },
+    "alan brown": {
+      "Member": "Alan Brown",
+      "Party": "Scottish National Party",
+      "Constituency": "Kilmarnock and Loudoun",
+      "Vote": "Aye",
+      "lower_name": "alan brown"
+    },
+    "nicholas brown": {
+      "Member": "Nicholas Brown",
+      "Party": "Independent",
+      "Constituency": "Newcastle upon Tyne East",
+      "Vote": "Aye",
+      "lower_name": "nicholas brown"
+    },
+    "lyn brown": {
+      "Member": "Lyn Brown",
+      "Party": "Labour",
+      "Constituency": "West Ham",
+      "Vote": "Aye",
+      "lower_name": "lyn brown"
+    },
+    "anthony browne": {
+      "Member": "Anthony Browne",
+      "Party": "Conservative",
+      "Constituency": "South Cambridgeshire",
+      "Vote": "No",
+      "lower_name": "anthony browne"
+    },
+    "fiona bruce": {
+      "Member": "Fiona Bruce",
+      "Party": "Conservative",
+      "Constituency": "Congleton",
+      "Vote": "No",
+      "lower_name": "fiona bruce"
+    },
+    "chris bryant": {
+      "Member": "Chris Bryant",
+      "Party": "Labour",
+      "Constituency": "Rhondda",
+      "Vote": "Aye",
+      "lower_name": "chris bryant"
+    },
+    "felicity buchan": {
+      "Member": "Felicity Buchan",
+      "Party": "Conservative",
+      "Constituency": "Kensington",
+      "Vote": "No",
+      "lower_name": "felicity buchan"
+    },
+    "karen buck": {
+      "Member": "Karen Buck",
+      "Party": "Labour",
+      "Constituency": "Westminster North",
+      "Vote": "Aye",
+      "lower_name": "karen buck"
+    },
+    "robert buckland": {
+      "Member": "Robert Buckland",
+      "Party": "Conservative",
+      "Constituency": "South Swindon",
+      "Vote": "No",
+      "lower_name": "robert buckland"
+    },
+    "alex burghart": {
+      "Member": "Alex Burghart",
+      "Party": "Conservative",
+      "Constituency": "Brentwood and Ongar",
+      "Vote": "No",
+      "lower_name": "alex burghart"
+    },
+    "richard burgon": {
+      "Member": "Richard Burgon",
+      "Party": "Labour",
+      "Constituency": "Leeds East",
+      "Vote": "Aye",
+      "lower_name": "richard burgon"
+    },
+    "conor burns": {
+      "Member": "Conor Burns",
+      "Party": "Independent",
+      "Constituency": "Bournemouth West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "conor burns"
+    },
+    "dawn butler": {
+      "Member": "Dawn Butler",
+      "Party": "Labour",
+      "Constituency": "Brent Central",
+      "Vote": "Aye",
+      "lower_name": "dawn butler"
+    },
+    "rob butler": {
+      "Member": "Rob Butler",
+      "Party": "Conservative",
+      "Constituency": "Aylesbury",
+      "Vote": "No",
+      "lower_name": "rob butler"
+    },
+    "ian byrne": {
+      "Member": "Ian Byrne",
+      "Party": "Labour",
+      "Constituency": "Liverpool, West Derby",
+      "Vote": "No Vote Recorded",
+      "lower_name": "ian byrne"
+    },
+    "liam byrne": {
+      "Member": "Liam Byrne",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Hodge Hill",
+      "Vote": "Aye",
+      "lower_name": "liam byrne"
+    },
+    "ruth cadbury": {
+      "Member": "Ruth Cadbury",
+      "Party": "Labour",
+      "Constituency": "Brentford and Isleworth",
+      "Vote": "Aye",
+      "lower_name": "ruth cadbury"
+    },
+    "alun cairns": {
+      "Member": "Alun Cairns",
+      "Party": "Conservative",
+      "Constituency": "Vale of Glamorgan",
+      "Vote": "No",
+      "lower_name": "alun cairns"
+    },
+    "amy callaghan": {
+      "Member": "Amy Callaghan",
+      "Party": "Scottish National Party",
+      "Constituency": "East Dunbartonshire",
+      "Vote": "No Vote Recorded",
+      "lower_name": "amy callaghan"
+    },
+    "lisa cameron": {
+      "Member": "Lisa Cameron",
+      "Party": "Scottish National Party",
+      "Constituency": "East Kilbride, Strathaven and Lesmahagow",
+      "Vote": "Aye",
+      "lower_name": "lisa cameron"
+    },
+    "gregory campbell": {
+      "Member": "Gregory Campbell",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "East Londonderry",
+      "Vote": "No Vote Recorded",
+      "lower_name": "gregory campbell"
+    },
+    "alan campbell": {
+      "Member": "Alan Campbell",
+      "Party": "Labour",
+      "Constituency": "Tynemouth",
+      "Vote": "Aye",
+      "lower_name": "alan campbell"
+    },
+    "dan carden": {
+      "Member": "Dan Carden",
+      "Party": "Labour",
+      "Constituency": "Liverpool, Walton",
+      "Vote": "Aye",
+      "lower_name": "dan carden"
+    },
+    "alistair carmichael": {
+      "Member": "Alistair Carmichael",
+      "Party": "Liberal Democrat",
+      "Constituency": "Orkney and Shetland",
+      "Vote": "Aye",
+      "lower_name": "alistair carmichael"
+    },
+    "andy carter": {
+      "Member": "Andy Carter",
+      "Party": "Conservative",
+      "Constituency": "Warrington South",
+      "Vote": "No",
+      "lower_name": "andy carter"
+    },
+    "james cartlidge": {
+      "Member": "James Cartlidge",
+      "Party": "Conservative",
+      "Constituency": "South Suffolk",
+      "Vote": "No",
+      "lower_name": "james cartlidge"
+    },
+    "william cash": {
+      "Member": "William Cash",
+      "Party": "Conservative",
+      "Constituency": "Stone",
+      "Vote": "No",
+      "lower_name": "william cash"
+    },
+    "miriam cates": {
+      "Member": "Miriam Cates",
+      "Party": "Conservative",
+      "Constituency": "Penistone and Stocksbridge",
+      "Vote": "No",
+      "lower_name": "miriam cates"
+    },
+    "maria caulfield": {
+      "Member": "Maria Caulfield",
+      "Party": "Conservative",
+      "Constituency": "Lewes",
+      "Vote": "No",
+      "lower_name": "maria caulfield"
+    },
+    "alex chalk": {
+      "Member": "Alex Chalk",
+      "Party": "Conservative",
+      "Constituency": "Cheltenham",
+      "Vote": "No",
+      "lower_name": "alex chalk"
+    },
+    "wendy chamberlain": {
+      "Member": "Wendy Chamberlain",
+      "Party": "Liberal Democrat",
+      "Constituency": "North East Fife",
+      "Vote": "Aye",
+      "lower_name": "wendy chamberlain"
+    },
+    "sarah champion": {
+      "Member": "Sarah Champion",
+      "Party": "Labour",
+      "Constituency": "Rotherham",
+      "Vote": "Aye",
+      "lower_name": "sarah champion"
+    },
+    "douglas chapman": {
+      "Member": "Douglas Chapman",
+      "Party": "Scottish National Party",
+      "Constituency": "Dunfermline and West Fife",
+      "Vote": "Aye",
+      "lower_name": "douglas chapman"
+    },
+    "bambos charalambous": {
+      "Member": "Bambos Charalambous",
+      "Party": "Labour",
+      "Constituency": "Enfield, Southgate",
+      "Vote": "Aye",
+      "lower_name": "bambos charalambous"
+    },
+    "joanna cherry": {
+      "Member": "Joanna Cherry",
+      "Party": "Scottish National Party",
+      "Constituency": "Edinburgh South West",
+      "Vote": "Aye",
+      "lower_name": "joanna cherry"
+    },
+    "rehman chishti": {
+      "Member": "Rehman Chishti",
+      "Party": "Conservative",
+      "Constituency": "Gillingham and Rainham",
+      "Vote": "No",
+      "lower_name": "rehman chishti"
+    },
+    "christopher chope": {
+      "Member": "Christopher Chope",
+      "Party": "Conservative",
+      "Constituency": "Christchurch",
+      "Vote": "No",
+      "lower_name": "christopher chope"
+    },
+    "jo churchill": {
+      "Member": "Jo Churchill",
+      "Party": "Conservative",
+      "Constituency": "Bury St Edmunds",
+      "Vote": "No",
+      "lower_name": "jo churchill"
+    },
+    "feryal clark": {
+      "Member": "Feryal Clark",
+      "Party": "Labour",
+      "Constituency": "Enfield North",
+      "Vote": "Aye",
+      "lower_name": "feryal clark"
+    },
+    "greg clark": {
+      "Member": "Greg Clark",
+      "Party": "Conservative",
+      "Constituency": "Tunbridge Wells",
+      "Vote": "No Vote Recorded",
+      "lower_name": "greg clark"
+    },
+    "simon clarke": {
+      "Member": "Simon Clarke",
+      "Party": "Conservative",
+      "Constituency": "Middlesbrough South and East Cleveland",
+      "Vote": "No",
+      "lower_name": "simon clarke"
+    },
+    "theo clarke": {
+      "Member": "Theo Clarke",
+      "Party": "Conservative",
+      "Constituency": "Stafford",
+      "Vote": "No",
+      "lower_name": "theo clarke"
+    },
+    "brendan clarke-smith": {
+      "Member": "Brendan Clarke-Smith",
+      "Party": "Conservative",
+      "Constituency": "Bassetlaw",
+      "Vote": "No",
+      "lower_name": "brendan clarke-smith"
+    },
+    "chris clarkson": {
+      "Member": "Chris Clarkson",
+      "Party": "Conservative",
+      "Constituency": "Heywood and Middleton",
+      "Vote": "No",
+      "lower_name": "chris clarkson"
+    },
+    "james cleverly": {
+      "Member": "James Cleverly",
+      "Party": "Conservative",
+      "Constituency": "Braintree",
+      "Vote": "No",
+      "lower_name": "james cleverly"
+    },
+    "geoffrey clifton-brown": {
+      "Member": "Geoffrey Clifton-Brown",
+      "Party": "Conservative",
+      "Constituency": "The Cotswolds",
+      "Vote": "No",
+      "lower_name": "geoffrey clifton-brown"
+    },
+    "th\u00e9r\u00e8se coffey": {
+      "Member": "Th\u00e9r\u00e8se Coffey",
+      "Party": "Conservative",
+      "Constituency": "Suffolk Coastal",
+      "Vote": "No",
+      "lower_name": "th\u00e9r\u00e8se coffey"
+    },
+    "elliot colburn": {
+      "Member": "Elliot Colburn",
+      "Party": "Conservative",
+      "Constituency": "Carshalton and Wallington",
+      "Vote": "No",
+      "lower_name": "elliot colburn"
+    },
+    "damian collins": {
+      "Member": "Damian Collins",
+      "Party": "Conservative",
+      "Constituency": "Folkestone and Hythe",
+      "Vote": "No",
+      "lower_name": "damian collins"
+    },
+    "daisy cooper": {
+      "Member": "Daisy Cooper",
+      "Party": "Liberal Democrat",
+      "Constituency": "St Albans",
+      "Vote": "Aye",
+      "lower_name": "daisy cooper"
+    },
+    "rosie cooper": {
+      "Member": "Rosie Cooper",
+      "Party": "Labour",
+      "Constituency": "West Lancashire",
+      "Vote": "No Vote Recorded",
+      "lower_name": "rosie cooper"
+    },
+    "yvette cooper": {
+      "Member": "Yvette Cooper",
+      "Party": "Labour",
+      "Constituency": "Normanton, Pontefract and Castleford",
+      "Vote": "Aye",
+      "lower_name": "yvette cooper"
+    },
+    "jeremy corbyn": {
+      "Member": "Jeremy Corbyn",
+      "Party": "Independent",
+      "Constituency": "Islington North",
+      "Vote": "Aye",
+      "lower_name": "jeremy corbyn"
+    },
+    "alberto costa": {
+      "Member": "Alberto Costa",
+      "Party": "Conservative",
+      "Constituency": "South Leicestershire",
+      "Vote": "No",
+      "lower_name": "alberto costa"
+    },
+    "robert courts": {
+      "Member": "Robert Courts",
+      "Party": "Conservative",
+      "Constituency": "Witney",
+      "Vote": "No",
+      "lower_name": "robert courts"
+    },
+    "claire coutinho": {
+      "Member": "Claire Coutinho",
+      "Party": "Conservative",
+      "Constituency": "East Surrey",
+      "Vote": "No",
+      "lower_name": "claire coutinho"
+    },
+    "ronnie cowan": {
+      "Member": "Ronnie Cowan",
+      "Party": "Scottish National Party",
+      "Constituency": "Inverclyde",
+      "Vote": "Aye",
+      "lower_name": "ronnie cowan"
+    },
+    "geoffrey cox": {
+      "Member": "Geoffrey Cox",
+      "Party": "Conservative",
+      "Constituency": "Torridge and West Devon",
+      "Vote": "No Vote Recorded",
+      "lower_name": "geoffrey cox"
+    },
+    "neil coyle": {
+      "Member": "Neil Coyle",
+      "Party": "Independent",
+      "Constituency": "Bermondsey and Old Southwark",
+      "Vote": "Aye",
+      "lower_name": "neil coyle"
+    },
+    "stephen crabb": {
+      "Member": "Stephen Crabb",
+      "Party": "Conservative",
+      "Constituency": "Preseli Pembrokeshire",
+      "Vote": "No",
+      "lower_name": "stephen crabb"
+    },
+    "angela crawley": {
+      "Member": "Angela Crawley",
+      "Party": "Scottish National Party",
+      "Constituency": "Lanark and Hamilton East",
+      "Vote": "Aye",
+      "lower_name": "angela crawley"
+    },
+    "stella creasy": {
+      "Member": "Stella Creasy",
+      "Party": "Labour",
+      "Constituency": "Walthamstow",
+      "Vote": "Aye",
+      "lower_name": "stella creasy"
+    },
+    "virginia crosbie": {
+      "Member": "Virginia Crosbie",
+      "Party": "Conservative",
+      "Constituency": "Ynys M\u00f4n",
+      "Vote": "No",
+      "lower_name": "virginia crosbie"
+    },
+    "tracey crouch": {
+      "Member": "Tracey Crouch",
+      "Party": "Conservative",
+      "Constituency": "Chatham and Aylesford",
+      "Vote": "No Vote Recorded",
+      "lower_name": "tracey crouch"
+    },
+    "jon cruddas": {
+      "Member": "Jon Cruddas",
+      "Party": "Labour",
+      "Constituency": "Dagenham and Rainham",
+      "Vote": "Aye",
+      "lower_name": "jon cruddas"
+    },
+    "john cryer": {
+      "Member": "John Cryer",
+      "Party": "Labour",
+      "Constituency": "Leyton and Wanstead",
+      "Vote": "Aye",
+      "lower_name": "john cryer"
+    },
+    "judith cummins": {
+      "Member": "Judith Cummins",
+      "Party": "Labour",
+      "Constituency": "Bradford South",
+      "Vote": "Aye",
+      "lower_name": "judith cummins"
+    },
+    "alex cunningham": {
+      "Member": "Alex Cunningham",
+      "Party": "Labour",
+      "Constituency": "Stockton North",
+      "Vote": "Aye",
+      "lower_name": "alex cunningham"
+    },
+    "janet daby": {
+      "Member": "Janet Daby",
+      "Party": "Labour",
+      "Constituency": "Lewisham East",
+      "Vote": "Aye",
+      "lower_name": "janet daby"
+    },
+    "james daly": {
+      "Member": "James Daly",
+      "Party": "Conservative",
+      "Constituency": "Bury North",
+      "Vote": "No",
+      "lower_name": "james daly"
+    },
+    "ed davey": {
+      "Member": "Ed Davey",
+      "Party": "Liberal Democrat",
+      "Constituency": "Kingston and Surbiton",
+      "Vote": "Aye",
+      "lower_name": "ed davey"
+    },
+    "wayne david": {
+      "Member": "Wayne David",
+      "Party": "Labour",
+      "Constituency": "Caerphilly",
+      "Vote": "Aye",
+      "lower_name": "wayne david"
+    },
+    "david t c davies": {
+      "Member": "David T C Davies",
+      "Party": "Conservative",
+      "Constituency": "Monmouth",
+      "Vote": "No",
+      "lower_name": "david t c davies"
+    },
+    "james davies": {
+      "Member": "James Davies",
+      "Party": "Conservative",
+      "Constituency": "Vale of Clwyd",
+      "Vote": "No",
+      "lower_name": "james davies"
+    },
+    "gareth davies": {
+      "Member": "Gareth Davies",
+      "Party": "Conservative",
+      "Constituency": "Grantham and Stamford",
+      "Vote": "No",
+      "lower_name": "gareth davies"
+    },
+    "geraint davies": {
+      "Member": "Geraint Davies",
+      "Party": "Labour",
+      "Constituency": "Swansea West",
+      "Vote": "Aye",
+      "lower_name": "geraint davies"
+    },
+    "mims davies": {
+      "Member": "Mims Davies",
+      "Party": "Conservative",
+      "Constituency": "Mid Sussex",
+      "Vote": "No",
+      "lower_name": "mims davies"
+    },
+    "philip davies": {
+      "Member": "Philip Davies",
+      "Party": "Conservative",
+      "Constituency": "Shipley",
+      "Vote": "No",
+      "lower_name": "philip davies"
+    },
+    "alex davies-jones": {
+      "Member": "Alex Davies-Jones",
+      "Party": "Labour",
+      "Constituency": "Pontypridd",
+      "Vote": "Aye",
+      "lower_name": "alex davies-jones"
+    },
+    "david davis": {
+      "Member": "David Davis",
+      "Party": "Conservative",
+      "Constituency": "Haltemprice and Howden",
+      "Vote": "No Vote Recorded",
+      "lower_name": "david davis"
+    },
+    "dehenna davison": {
+      "Member": "Dehenna Davison",
+      "Party": "Conservative",
+      "Constituency": "Bishop Auckland",
+      "Vote": "No",
+      "lower_name": "dehenna davison"
+    },
+    "martyn day": {
+      "Member": "Martyn Day",
+      "Party": "Scottish National Party",
+      "Constituency": "Linlithgow and East Falkirk",
+      "Vote": "Aye",
+      "lower_name": "martyn day"
+    },
+    "marsha de cordova": {
+      "Member": "Marsha De Cordova",
+      "Party": "Labour",
+      "Constituency": "Battersea",
+      "Vote": "Aye",
+      "lower_name": "marsha de cordova"
+    },
+    "thangam debbonaire": {
+      "Member": "Thangam Debbonaire",
+      "Party": "Labour",
+      "Constituency": "Bristol West",
+      "Vote": "Aye",
+      "lower_name": "thangam debbonaire"
+    },
+    "tanmanjeet singh dhesi": {
+      "Member": "Tanmanjeet Singh Dhesi",
+      "Party": "Labour",
+      "Constituency": "Slough",
+      "Vote": "Aye",
+      "lower_name": "tanmanjeet singh dhesi"
+    },
+    "caroline dinenage": {
+      "Member": "Caroline Dinenage",
+      "Party": "Conservative",
+      "Constituency": "Gosport",
+      "Vote": "No Vote Recorded",
+      "lower_name": "caroline dinenage"
+    },
+    "sarah dines": {
+      "Member": "Sarah Dines",
+      "Party": "Conservative",
+      "Constituency": "Derbyshire Dales",
+      "Vote": "No",
+      "lower_name": "sarah dines"
+    },
+    "jonathan djanogly": {
+      "Member": "Jonathan Djanogly",
+      "Party": "Conservative",
+      "Constituency": "Huntingdon",
+      "Vote": "No",
+      "lower_name": "jonathan djanogly"
+    },
+    "leo docherty": {
+      "Member": "Leo Docherty",
+      "Party": "Conservative",
+      "Constituency": "Aldershot",
+      "Vote": "No",
+      "lower_name": "leo docherty"
+    },
+    "martin docherty-hughes": {
+      "Member": "Martin Docherty-Hughes",
+      "Party": "Scottish National Party",
+      "Constituency": "West Dunbartonshire",
+      "Vote": "Aye",
+      "lower_name": "martin docherty-hughes"
+    },
+    "anneliese dodds": {
+      "Member": "Anneliese Dodds",
+      "Party": "Labour",
+      "Constituency": "Oxford East",
+      "Vote": "Aye",
+      "lower_name": "anneliese dodds"
+    },
+    "jeffrey m donaldson": {
+      "Member": "Jeffrey M Donaldson",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "Lagan Valley",
+      "Vote": "No Vote Recorded",
+      "lower_name": "jeffrey m donaldson"
+    },
+    "michelle donelan": {
+      "Member": "Michelle Donelan",
+      "Party": "Conservative",
+      "Constituency": "Chippenham",
+      "Vote": "No",
+      "lower_name": "michelle donelan"
+    },
+    "dave doogan": {
+      "Member": "Dave Doogan",
+      "Party": "Scottish National Party",
+      "Constituency": "Angus",
+      "Vote": "Aye",
+      "lower_name": "dave doogan"
+    },
+    "allan dorans": {
+      "Member": "Allan Dorans",
+      "Party": "Scottish National Party",
+      "Constituency": "Ayr, Carrick and Cumnock",
+      "Vote": "No Vote Recorded",
+      "lower_name": "allan dorans"
+    },
+    "nadine dorries": {
+      "Member": "Nadine Dorries",
+      "Party": "Conservative",
+      "Constituency": "Mid Bedfordshire",
+      "Vote": "No Vote Recorded",
+      "lower_name": "nadine dorries"
+    },
+    "steve double": {
+      "Member": "Steve Double",
+      "Party": "Conservative",
+      "Constituency": "St Austell and Newquay",
+      "Vote": "No",
+      "lower_name": "steve double"
+    },
+    "stephen doughty": {
+      "Member": "Stephen Doughty",
+      "Party": "Labour",
+      "Constituency": "Cardiff South and Penarth",
+      "Vote": "Aye",
+      "lower_name": "stephen doughty"
+    },
+    "peter dowd": {
+      "Member": "Peter Dowd",
+      "Party": "Labour",
+      "Constituency": "Bootle",
+      "Vote": "Aye",
+      "lower_name": "peter dowd"
+    },
+    "oliver dowden": {
+      "Member": "Oliver Dowden",
+      "Party": "Conservative",
+      "Constituency": "Hertsmere",
+      "Vote": "No",
+      "lower_name": "oliver dowden"
+    },
+    "jackie doyle-price": {
+      "Member": "Jackie Doyle-Price",
+      "Party": "Conservative",
+      "Constituency": "Thurrock",
+      "Vote": "No",
+      "lower_name": "jackie doyle-price"
+    },
+    "richard drax": {
+      "Member": "Richard Drax",
+      "Party": "Conservative",
+      "Constituency": "South Dorset",
+      "Vote": "No",
+      "lower_name": "richard drax"
+    },
+    "flick drummond": {
+      "Member": "Flick Drummond",
+      "Party": "Conservative",
+      "Constituency": "Meon Valley",
+      "Vote": "No",
+      "lower_name": "flick drummond"
+    },
+    "james duddridge": {
+      "Member": "James Duddridge",
+      "Party": "Conservative",
+      "Constituency": "Rochford and Southend East",
+      "Vote": "No",
+      "lower_name": "james duddridge"
+    },
+    "rosie duffield": {
+      "Member": "Rosie Duffield",
+      "Party": "Labour",
+      "Constituency": "Canterbury",
+      "Vote": "Aye",
+      "lower_name": "rosie duffield"
+    },
+    "david duguid": {
+      "Member": "David Duguid",
+      "Party": "Conservative",
+      "Constituency": "Banff and Buchan",
+      "Vote": "No",
+      "lower_name": "david duguid"
+    },
+    "iain duncan smith": {
+      "Member": "Iain Duncan Smith",
+      "Party": "Conservative",
+      "Constituency": "Chingford and Woodford Green",
+      "Vote": "No",
+      "lower_name": "iain duncan smith"
+    },
+    "philip dunne": {
+      "Member": "Philip Dunne",
+      "Party": "Conservative",
+      "Constituency": "Ludlow",
+      "Vote": "No Vote Recorded",
+      "lower_name": "philip dunne"
+    },
+    "angela eagle": {
+      "Member": "Angela Eagle",
+      "Party": "Labour",
+      "Constituency": "Wallasey",
+      "Vote": "No Vote Recorded",
+      "lower_name": "angela eagle"
+    },
+    "maria eagle": {
+      "Member": "Maria Eagle",
+      "Party": "Labour",
+      "Constituency": "Garston and Halewood",
+      "Vote": "Aye",
+      "lower_name": "maria eagle"
+    },
+    "colum eastwood": {
+      "Member": "Colum Eastwood",
+      "Party": "Social Democratic & Labour Party",
+      "Constituency": "Foyle",
+      "Vote": "Aye",
+      "lower_name": "colum eastwood"
+    },
+    "mark eastwood": {
+      "Member": "Mark Eastwood",
+      "Party": "Conservative",
+      "Constituency": "Dewsbury",
+      "Vote": "No",
+      "lower_name": "mark eastwood"
+    },
+    "jonathan edwards": {
+      "Member": "Jonathan Edwards",
+      "Party": "Independent",
+      "Constituency": "Carmarthen East and Dinefwr",
+      "Vote": "Aye",
+      "lower_name": "jonathan edwards"
+    },
+    "ruth edwards": {
+      "Member": "Ruth Edwards",
+      "Party": "Conservative",
+      "Constituency": "Rushcliffe",
+      "Vote": "No",
+      "lower_name": "ruth edwards"
+    },
+    "clive efford": {
+      "Member": "Clive Efford",
+      "Party": "Labour",
+      "Constituency": "Eltham",
+      "Vote": "Aye",
+      "lower_name": "clive efford"
+    },
+    "julie elliott": {
+      "Member": "Julie Elliott",
+      "Party": "Labour",
+      "Constituency": "Sunderland Central",
+      "Vote": "Aye",
+      "lower_name": "julie elliott"
+    },
+    "michael ellis": {
+      "Member": "Michael Ellis",
+      "Party": "Conservative",
+      "Constituency": "Northampton North",
+      "Vote": "No",
+      "lower_name": "michael ellis"
+    },
+    "tobias ellwood": {
+      "Member": "Tobias Ellwood",
+      "Party": "Conservative",
+      "Constituency": "Bournemouth East",
+      "Vote": "No",
+      "lower_name": "tobias ellwood"
+    },
+    "chris elmore": {
+      "Member": "Chris Elmore",
+      "Party": "Labour",
+      "Constituency": "Ogmore",
+      "Vote": "Aye",
+      "lower_name": "chris elmore"
+    },
+    "natalie elphicke": {
+      "Member": "Natalie Elphicke",
+      "Party": "Conservative",
+      "Constituency": "Dover",
+      "Vote": "No",
+      "lower_name": "natalie elphicke"
+    },
+    "florence eshalomi": {
+      "Member": "Florence Eshalomi",
+      "Party": "Labour",
+      "Constituency": "Vauxhall",
+      "Vote": "Aye",
+      "lower_name": "florence eshalomi"
+    },
+    "bill esterson": {
+      "Member": "Bill Esterson",
+      "Party": "Labour",
+      "Constituency": "Sefton Central",
+      "Vote": "Aye",
+      "lower_name": "bill esterson"
+    },
+    "george eustice": {
+      "Member": "George Eustice",
+      "Party": "Conservative",
+      "Constituency": "Camborne and Redruth",
+      "Vote": "No",
+      "lower_name": "george eustice"
+    },
+    "chris evans": {
+      "Member": "Chris Evans",
+      "Party": "Labour",
+      "Constituency": "Islwyn",
+      "Vote": "Aye",
+      "lower_name": "chris evans"
+    },
+    "luke evans": {
+      "Member": "Luke Evans",
+      "Party": "Conservative",
+      "Constituency": "Bosworth",
+      "Vote": "No",
+      "lower_name": "luke evans"
+    },
+    "nigel evans": {
+      "Member": "Nigel Evans",
+      "Party": "Deputy Speaker",
+      "Constituency": "Ribble Valley",
+      "Vote": "No Vote Recorded",
+      "lower_name": "nigel evans"
+    },
+    "david evennett": {
+      "Member": "David Evennett",
+      "Party": "Conservative",
+      "Constituency": "Bexleyheath and Crayford",
+      "Vote": "No",
+      "lower_name": "david evennett"
+    },
+    "ben everitt": {
+      "Member": "Ben Everitt",
+      "Party": "Conservative",
+      "Constituency": "Milton Keynes North",
+      "Vote": "No",
+      "lower_name": "ben everitt"
+    },
+    "michael fabricant": {
+      "Member": "Michael Fabricant",
+      "Party": "Conservative",
+      "Constituency": "Lichfield",
+      "Vote": "No",
+      "lower_name": "michael fabricant"
+    },
+    "laura farris": {
+      "Member": "Laura Farris",
+      "Party": "Conservative",
+      "Constituency": "Newbury",
+      "Vote": "No",
+      "lower_name": "laura farris"
+    },
+    "tim farron": {
+      "Member": "Tim Farron",
+      "Party": "Liberal Democrat",
+      "Constituency": "Westmorland and Lonsdale",
+      "Vote": "Aye",
+      "lower_name": "tim farron"
+    },
+    "stephen farry": {
+      "Member": "Stephen Farry",
+      "Party": "Alliance",
+      "Constituency": "North Down",
+      "Vote": "Aye",
+      "lower_name": "stephen farry"
+    },
+    "simon fell": {
+      "Member": "Simon Fell",
+      "Party": "Conservative",
+      "Constituency": "Barrow and Furness",
+      "Vote": "No",
+      "lower_name": "simon fell"
+    },
+    "marion fellows": {
+      "Member": "Marion Fellows",
+      "Party": "Scottish National Party",
+      "Constituency": "Motherwell and Wishaw",
+      "Vote": "Aye",
+      "lower_name": "marion fellows"
+    },
+    "margaret ferrier": {
+      "Member": "Margaret Ferrier",
+      "Party": "Independent",
+      "Constituency": "Rutherglen and Hamilton West",
+      "Vote": "Aye",
+      "lower_name": "margaret ferrier"
+    },
+    "john finucane": {
+      "Member": "John Finucane",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "Belfast North",
+      "Vote": "No Vote Recorded",
+      "lower_name": "john finucane"
+    },
+    "anna firth": {
+      "Member": "Anna Firth",
+      "Party": "Conservative",
+      "Constituency": "Southend West",
+      "Vote": "No",
+      "lower_name": "anna firth"
+    },
+    "colleen fletcher": {
+      "Member": "Colleen Fletcher",
+      "Party": "Labour",
+      "Constituency": "Coventry North East",
+      "Vote": "Aye",
+      "lower_name": "colleen fletcher"
+    },
+    "katherine fletcher": {
+      "Member": "Katherine Fletcher",
+      "Party": "Conservative",
+      "Constituency": "South Ribble",
+      "Vote": "No",
+      "lower_name": "katherine fletcher"
+    },
+    "mark fletcher": {
+      "Member": "Mark Fletcher",
+      "Party": "Conservative",
+      "Constituency": "Bolsover",
+      "Vote": "No Vote Recorded",
+      "lower_name": "mark fletcher"
+    },
+    "nick fletcher": {
+      "Member": "Nick Fletcher",
+      "Party": "Conservative",
+      "Constituency": "Don Valley",
+      "Vote": "No",
+      "lower_name": "nick fletcher"
+    },
+    "stephen flynn": {
+      "Member": "Stephen Flynn",
+      "Party": "Scottish National Party",
+      "Constituency": "Aberdeen South",
+      "Vote": "Aye",
+      "lower_name": "stephen flynn"
+    },
+    "richard foord": {
+      "Member": "Richard Foord",
+      "Party": "Liberal Democrat",
+      "Constituency": "Tiverton and Honiton",
+      "Vote": "Aye",
+      "lower_name": "richard foord"
+    },
+    "vicky ford": {
+      "Member": "Vicky Ford",
+      "Party": "Conservative",
+      "Constituency": "Chelmsford",
+      "Vote": "No Vote Recorded",
+      "lower_name": "vicky ford"
+    },
+    "kevin foster": {
+      "Member": "Kevin Foster",
+      "Party": "Conservative",
+      "Constituency": "Torbay",
+      "Vote": "No",
+      "lower_name": "kevin foster"
+    },
+    "yvonne fovargue": {
+      "Member": "Yvonne Fovargue",
+      "Party": "Labour",
+      "Constituency": "Makerfield",
+      "Vote": "Aye",
+      "lower_name": "yvonne fovargue"
+    },
+    "liam fox": {
+      "Member": "Liam Fox",
+      "Party": "Conservative",
+      "Constituency": "North Somerset",
+      "Vote": "No",
+      "lower_name": "liam fox"
+    },
+    "vicky foxcroft": {
+      "Member": "Vicky Foxcroft",
+      "Party": "Labour",
+      "Constituency": "Lewisham, Deptford",
+      "Vote": "Aye",
+      "lower_name": "vicky foxcroft"
+    },
+    "mary kelly foy": {
+      "Member": "Mary Kelly Foy",
+      "Party": "Labour",
+      "Constituency": "City of Durham",
+      "Vote": "No Vote Recorded",
+      "lower_name": "mary kelly foy"
+    },
+    "mark francois": {
+      "Member": "Mark Francois",
+      "Party": "Conservative",
+      "Constituency": "Rayleigh and Wickford",
+      "Vote": "No",
+      "lower_name": "mark francois"
+    },
+    "lucy frazer": {
+      "Member": "Lucy Frazer",
+      "Party": "Conservative",
+      "Constituency": "South East Cambridgeshire",
+      "Vote": "No",
+      "lower_name": "lucy frazer"
+    },
+    "george freeman": {
+      "Member": "George Freeman",
+      "Party": "Conservative",
+      "Constituency": "Mid Norfolk",
+      "Vote": "No",
+      "lower_name": "george freeman"
+    },
+    "mike freer": {
+      "Member": "Mike Freer",
+      "Party": "Conservative",
+      "Constituency": "Finchley and Golders Green",
+      "Vote": "No",
+      "lower_name": "mike freer"
+    },
+    "louie french": {
+      "Member": "Louie French",
+      "Party": "Conservative",
+      "Constituency": "Old Bexley and Sidcup",
+      "Vote": "No",
+      "lower_name": "louie french"
+    },
+    "richard fuller": {
+      "Member": "Richard Fuller",
+      "Party": "Conservative",
+      "Constituency": "North East Bedfordshire",
+      "Vote": "No",
+      "lower_name": "richard fuller"
+    },
+    "gill furniss": {
+      "Member": "Gill Furniss",
+      "Party": "Labour",
+      "Constituency": "Sheffield, Brightside and Hillsborough",
+      "Vote": "Aye",
+      "lower_name": "gill furniss"
+    },
+    "marcus fysh": {
+      "Member": "Marcus Fysh",
+      "Party": "Conservative",
+      "Constituency": "Yeovil",
+      "Vote": "No",
+      "lower_name": "marcus fysh"
+    },
+    "roger gale": {
+      "Member": "Roger Gale",
+      "Party": "Conservative",
+      "Constituency": "North Thanet",
+      "Vote": "No",
+      "lower_name": "roger gale"
+    },
+    "barry gardiner": {
+      "Member": "Barry Gardiner",
+      "Party": "Labour",
+      "Constituency": "Brent North",
+      "Vote": "Aye",
+      "lower_name": "barry gardiner"
+    },
+    "mark garnier": {
+      "Member": "Mark Garnier",
+      "Party": "Conservative",
+      "Constituency": "Wyre Forest",
+      "Vote": "No",
+      "lower_name": "mark garnier"
+    },
+    "nusrat ghani": {
+      "Member": "Nusrat Ghani",
+      "Party": "Conservative",
+      "Constituency": "Wealden",
+      "Vote": "No",
+      "lower_name": "nusrat ghani"
+    },
+    "nick gibb": {
+      "Member": "Nick Gibb",
+      "Party": "Conservative",
+      "Constituency": "Bognor Regis and Littlehampton",
+      "Vote": "No",
+      "lower_name": "nick gibb"
+    },
+    "patricia gibson": {
+      "Member": "Patricia Gibson",
+      "Party": "Scottish National Party",
+      "Constituency": "North Ayrshire and Arran",
+      "Vote": "Aye",
+      "lower_name": "patricia gibson"
+    },
+    "peter gibson": {
+      "Member": "Peter Gibson",
+      "Party": "Conservative",
+      "Constituency": "Darlington",
+      "Vote": "No",
+      "lower_name": "peter gibson"
+    },
+    "jo gideon": {
+      "Member": "Jo Gideon",
+      "Party": "Conservative",
+      "Constituency": "Stoke-on-Trent Central",
+      "Vote": "No",
+      "lower_name": "jo gideon"
+    },
+    "michelle gildernew": {
+      "Member": "Michelle Gildernew",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "Fermanagh and South Tyrone",
+      "Vote": "No Vote Recorded",
+      "lower_name": "michelle gildernew"
+    },
+    "preet kaur gill": {
+      "Member": "Preet Kaur Gill",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Edgbaston",
+      "Vote": "Aye",
+      "lower_name": "preet kaur gill"
+    },
+    "paul girvan": {
+      "Member": "Paul Girvan",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "South Antrim",
+      "Vote": "No",
+      "lower_name": "paul girvan"
+    },
+    "john glen": {
+      "Member": "John Glen",
+      "Party": "Conservative",
+      "Constituency": "Salisbury",
+      "Vote": "No",
+      "lower_name": "john glen"
+    },
+    "mary glindon": {
+      "Member": "Mary Glindon",
+      "Party": "Labour",
+      "Constituency": "North Tyneside",
+      "Vote": "Aye",
+      "lower_name": "mary glindon"
+    },
+    "robert goodwill": {
+      "Member": "Robert Goodwill",
+      "Party": "Conservative",
+      "Constituency": "Scarborough and Whitby",
+      "Vote": "No",
+      "lower_name": "robert goodwill"
+    },
+    "michael gove": {
+      "Member": "Michael Gove",
+      "Party": "Conservative",
+      "Constituency": "Surrey Heath",
+      "Vote": "No",
+      "lower_name": "michael gove"
+    },
+    "patrick grady": {
+      "Member": "Patrick Grady",
+      "Party": "Independent",
+      "Constituency": "Glasgow North",
+      "Vote": "Aye",
+      "lower_name": "patrick grady"
+    },
+    "richard graham": {
+      "Member": "Richard Graham",
+      "Party": "Conservative",
+      "Constituency": "Gloucester",
+      "Vote": "No",
+      "lower_name": "richard graham"
+    },
+    "helen grant": {
+      "Member": "Helen Grant",
+      "Party": "Conservative",
+      "Constituency": "Maidstone and The Weald",
+      "Vote": "No",
+      "lower_name": "helen grant"
+    },
+    "peter grant": {
+      "Member": "Peter Grant",
+      "Party": "Scottish National Party",
+      "Constituency": "Glenrothes",
+      "Vote": "Aye",
+      "lower_name": "peter grant"
+    },
+    "james gray": {
+      "Member": "James Gray",
+      "Party": "Conservative",
+      "Constituency": "North Wiltshire",
+      "Vote": "No",
+      "lower_name": "james gray"
+    },
+    "chris grayling": {
+      "Member": "Chris Grayling",
+      "Party": "Conservative",
+      "Constituency": "Epsom and Ewell",
+      "Vote": "No",
+      "lower_name": "chris grayling"
+    },
+    "chris green": {
+      "Member": "Chris Green",
+      "Party": "Conservative",
+      "Constituency": "Bolton West",
+      "Vote": "No",
+      "lower_name": "chris green"
+    },
+    "damian green": {
+      "Member": "Damian Green",
+      "Party": "Conservative",
+      "Constituency": "Ashford",
+      "Vote": "No",
+      "lower_name": "damian green"
+    },
+    "kate green": {
+      "Member": "Kate Green",
+      "Party": "Labour",
+      "Constituency": "Stretford and Urmston",
+      "Vote": "Aye",
+      "lower_name": "kate green"
+    },
+    "sarah green": {
+      "Member": "Sarah Green",
+      "Party": "Liberal Democrat",
+      "Constituency": "Chesham and Amersham",
+      "Vote": "Aye",
+      "lower_name": "sarah green"
+    },
+    "lilian greenwood": {
+      "Member": "Lilian Greenwood",
+      "Party": "Labour",
+      "Constituency": "Nottingham South",
+      "Vote": "Teller - Ayes",
+      "lower_name": "lilian greenwood"
+    },
+    "margaret greenwood": {
+      "Member": "Margaret Greenwood",
+      "Party": "Labour",
+      "Constituency": "Wirral West",
+      "Vote": "Aye",
+      "lower_name": "margaret greenwood"
+    },
+    "andrew griffith": {
+      "Member": "Andrew Griffith",
+      "Party": "Conservative",
+      "Constituency": "Arundel and South Downs",
+      "Vote": "No",
+      "lower_name": "andrew griffith"
+    },
+    "nia griffith": {
+      "Member": "Nia Griffith",
+      "Party": "Labour",
+      "Constituency": "Llanelli",
+      "Vote": "Aye",
+      "lower_name": "nia griffith"
+    },
+    "james grundy": {
+      "Member": "James Grundy",
+      "Party": "Conservative",
+      "Constituency": "Leigh",
+      "Vote": "No",
+      "lower_name": "james grundy"
+    },
+    "jonathan gullis": {
+      "Member": "Jonathan Gullis",
+      "Party": "Conservative",
+      "Constituency": "Stoke-on-Trent North",
+      "Vote": "No",
+      "lower_name": "jonathan gullis"
+    },
+    "andrew gwynne": {
+      "Member": "Andrew Gwynne",
+      "Party": "Labour",
+      "Constituency": "Denton and Reddish",
+      "Vote": "Aye",
+      "lower_name": "andrew gwynne"
+    },
+    "louise haigh": {
+      "Member": "Louise Haigh",
+      "Party": "Labour",
+      "Constituency": "Sheffield, Heeley",
+      "Vote": "Aye",
+      "lower_name": "louise haigh"
+    },
+    "robert halfon": {
+      "Member": "Robert Halfon",
+      "Party": "Conservative",
+      "Constituency": "Harlow",
+      "Vote": "No",
+      "lower_name": "robert halfon"
+    },
+    "luke hall": {
+      "Member": "Luke Hall",
+      "Party": "Conservative",
+      "Constituency": "Thornbury and Yate",
+      "Vote": "No",
+      "lower_name": "luke hall"
+    },
+    "fabian hamilton": {
+      "Member": "Fabian Hamilton",
+      "Party": "Labour",
+      "Constituency": "Leeds North East",
+      "Vote": "Aye",
+      "lower_name": "fabian hamilton"
+    },
+    "paulette hamilton": {
+      "Member": "Paulette Hamilton",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Erdington",
+      "Vote": "Aye",
+      "lower_name": "paulette hamilton"
+    },
+    "stephen hammond": {
+      "Member": "Stephen Hammond",
+      "Party": "Conservative",
+      "Constituency": "Wimbledon",
+      "Vote": "No",
+      "lower_name": "stephen hammond"
+    },
+    "matt hancock": {
+      "Member": "Matt Hancock",
+      "Party": "Conservative",
+      "Constituency": "West Suffolk",
+      "Vote": "No",
+      "lower_name": "matt hancock"
+    },
+    "greg hands": {
+      "Member": "Greg Hands",
+      "Party": "Conservative",
+      "Constituency": "Chelsea and Fulham",
+      "Vote": "No",
+      "lower_name": "greg hands"
+    },
+    "claire hanna": {
+      "Member": "Claire Hanna",
+      "Party": "Social Democratic & Labour Party",
+      "Constituency": "Belfast South",
+      "Vote": "Aye",
+      "lower_name": "claire hanna"
+    },
+    "neale hanvey": {
+      "Member": "Neale Hanvey",
+      "Party": "Alba Party",
+      "Constituency": "Kirkcaldy and Cowdenbeath",
+      "Vote": "No Vote Recorded",
+      "lower_name": "neale hanvey"
+    },
+    "emma hardy": {
+      "Member": "Emma Hardy",
+      "Party": "Labour",
+      "Constituency": "Kingston upon Hull West and Hessle",
+      "Vote": "Aye",
+      "lower_name": "emma hardy"
+    },
+    "harriet harman": {
+      "Member": "Harriet Harman",
+      "Party": "Labour",
+      "Constituency": "Camberwell and Peckham",
+      "Vote": "Aye",
+      "lower_name": "harriet harman"
+    },
+    "mark harper": {
+      "Member": "Mark Harper",
+      "Party": "Conservative",
+      "Constituency": "Forest of Dean",
+      "Vote": "No",
+      "lower_name": "mark harper"
+    },
+    "carolyn harris": {
+      "Member": "Carolyn Harris",
+      "Party": "Labour",
+      "Constituency": "Swansea East",
+      "Vote": "Aye",
+      "lower_name": "carolyn harris"
+    },
+    "rebecca harris": {
+      "Member": "Rebecca Harris",
+      "Party": "Conservative",
+      "Constituency": "Castle Point",
+      "Vote": "No",
+      "lower_name": "rebecca harris"
+    },
+    "trudy harrison": {
+      "Member": "Trudy Harrison",
+      "Party": "Conservative",
+      "Constituency": "Copeland",
+      "Vote": "No",
+      "lower_name": "trudy harrison"
+    },
+    "sally-ann hart": {
+      "Member": "Sally-Ann Hart",
+      "Party": "Conservative",
+      "Constituency": "Hastings and Rye",
+      "Vote": "No",
+      "lower_name": "sally-ann hart"
+    },
+    "simon hart": {
+      "Member": "Simon Hart",
+      "Party": "Conservative",
+      "Constituency": "Carmarthen West and South Pembrokeshire",
+      "Vote": "No",
+      "lower_name": "simon hart"
+    },
+    "helen hayes": {
+      "Member": "Helen Hayes",
+      "Party": "Labour",
+      "Constituency": "Dulwich and West Norwood",
+      "Vote": "Aye",
+      "lower_name": "helen hayes"
+    },
+    "john hayes": {
+      "Member": "John Hayes",
+      "Party": "Conservative",
+      "Constituency": "South Holland and The Deepings",
+      "Vote": "No",
+      "lower_name": "john hayes"
+    },
+    "chris hazzard": {
+      "Member": "Chris Hazzard",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "South Down",
+      "Vote": "No Vote Recorded",
+      "lower_name": "chris hazzard"
+    },
+    "oliver heald": {
+      "Member": "Oliver Heald",
+      "Party": "Conservative",
+      "Constituency": "North East Hertfordshire",
+      "Vote": "No",
+      "lower_name": "oliver heald"
+    },
+    "john healey": {
+      "Member": "John Healey",
+      "Party": "Labour",
+      "Constituency": "Wentworth and Dearne",
+      "Vote": "Aye",
+      "lower_name": "john healey"
+    },
+    "james heappey": {
+      "Member": "James Heappey",
+      "Party": "Conservative",
+      "Constituency": "Wells",
+      "Vote": "No",
+      "lower_name": "james heappey"
+    },
+    "chris heaton-harris": {
+      "Member": "Chris Heaton-Harris",
+      "Party": "Conservative",
+      "Constituency": "Daventry",
+      "Vote": "No",
+      "lower_name": "chris heaton-harris"
+    },
+    "gordon henderson": {
+      "Member": "Gordon Henderson",
+      "Party": "Conservative",
+      "Constituency": "Sittingbourne and Sheppey",
+      "Vote": "No",
+      "lower_name": "gordon henderson"
+    },
+    "mark hendrick": {
+      "Member": "Mark Hendrick",
+      "Party": "Labour",
+      "Constituency": "Preston",
+      "Vote": "Aye",
+      "lower_name": "mark hendrick"
+    },
+    "drew hendry": {
+      "Member": "Drew Hendry",
+      "Party": "Scottish National Party",
+      "Constituency": "Inverness, Nairn, Badenoch and Strathspey",
+      "Vote": "No Vote Recorded",
+      "lower_name": "drew hendry"
+    },
+    "darren henry": {
+      "Member": "Darren Henry",
+      "Party": "Conservative",
+      "Constituency": "Broxtowe",
+      "Vote": "No",
+      "lower_name": "darren henry"
+    },
+    "antony higginbotham": {
+      "Member": "Antony Higginbotham",
+      "Party": "Conservative",
+      "Constituency": "Burnley",
+      "Vote": "No",
+      "lower_name": "antony higginbotham"
+    },
+    "meg hillier": {
+      "Member": "Meg Hillier",
+      "Party": "Labour",
+      "Constituency": "Hackney South and Shoreditch",
+      "Vote": "Aye",
+      "lower_name": "meg hillier"
+    },
+    "damian hinds": {
+      "Member": "Damian Hinds",
+      "Party": "Conservative",
+      "Constituency": "East Hampshire",
+      "Vote": "No",
+      "lower_name": "damian hinds"
+    },
+    "simon hoare": {
+      "Member": "Simon Hoare",
+      "Party": "Conservative",
+      "Constituency": "North Dorset",
+      "Vote": "No",
+      "lower_name": "simon hoare"
+    },
+    "wera hobhouse": {
+      "Member": "Wera Hobhouse",
+      "Party": "Liberal Democrat",
+      "Constituency": "Bath",
+      "Vote": "Aye",
+      "lower_name": "wera hobhouse"
+    },
+    "margaret hodge": {
+      "Member": "Margaret Hodge",
+      "Party": "Labour",
+      "Constituency": "Barking",
+      "Vote": "Aye",
+      "lower_name": "margaret hodge"
+    },
+    "sharon hodgson": {
+      "Member": "Sharon Hodgson",
+      "Party": "Labour",
+      "Constituency": "Washington and Sunderland West",
+      "Vote": "Aye",
+      "lower_name": "sharon hodgson"
+    },
+    "richard holden": {
+      "Member": "Richard Holden",
+      "Party": "Conservative",
+      "Constituency": "North West Durham",
+      "Vote": "No",
+      "lower_name": "richard holden"
+    },
+    "kate hollern": {
+      "Member": "Kate Hollern",
+      "Party": "Labour",
+      "Constituency": "Blackburn",
+      "Vote": "Aye",
+      "lower_name": "kate hollern"
+    },
+    "kevin hollinrake": {
+      "Member": "Kevin Hollinrake",
+      "Party": "Conservative",
+      "Constituency": "Thirsk and Malton",
+      "Vote": "No",
+      "lower_name": "kevin hollinrake"
+    },
+    "philip hollobone": {
+      "Member": "Philip Hollobone",
+      "Party": "Conservative",
+      "Constituency": "Kettering",
+      "Vote": "No",
+      "lower_name": "philip hollobone"
+    },
+    "adam holloway": {
+      "Member": "Adam Holloway",
+      "Party": "Conservative",
+      "Constituency": "Gravesham",
+      "Vote": "No",
+      "lower_name": "adam holloway"
+    },
+    "paul holmes": {
+      "Member": "Paul Holmes",
+      "Party": "Conservative",
+      "Constituency": "Eastleigh",
+      "Vote": "No Vote Recorded",
+      "lower_name": "paul holmes"
+    },
+    "rachel hopkins": {
+      "Member": "Rachel Hopkins",
+      "Party": "Labour",
+      "Constituency": "Luton South",
+      "Vote": "Aye",
+      "lower_name": "rachel hopkins"
+    },
+    "stewart hosie": {
+      "Member": "Stewart Hosie",
+      "Party": "Scottish National Party",
+      "Constituency": "Dundee East",
+      "Vote": "Aye",
+      "lower_name": "stewart hosie"
+    },
+    "george howarth": {
+      "Member": "George Howarth",
+      "Party": "Labour",
+      "Constituency": "Knowsley",
+      "Vote": "Aye",
+      "lower_name": "george howarth"
+    },
+    "john howell": {
+      "Member": "John Howell",
+      "Party": "Conservative",
+      "Constituency": "Henley",
+      "Vote": "No",
+      "lower_name": "john howell"
+    },
+    "paul howell": {
+      "Member": "Paul Howell",
+      "Party": "Conservative",
+      "Constituency": "Sedgefield",
+      "Vote": "No",
+      "lower_name": "paul howell"
+    },
+    "lindsay hoyle": {
+      "Member": "Lindsay Hoyle",
+      "Party": "Speaker",
+      "Constituency": "Chorley",
+      "Vote": "No Vote Recorded",
+      "lower_name": "lindsay hoyle"
+    },
+    "nigel huddleston": {
+      "Member": "Nigel Huddleston",
+      "Party": "Conservative",
+      "Constituency": "Mid Worcestershire",
+      "Vote": "No",
+      "lower_name": "nigel huddleston"
+    },
+    "neil hudson": {
+      "Member": "Neil Hudson",
+      "Party": "Conservative",
+      "Constituency": "Penrith and The Border",
+      "Vote": "No",
+      "lower_name": "neil hudson"
+    },
+    "eddie hughes": {
+      "Member": "Eddie Hughes",
+      "Party": "Conservative",
+      "Constituency": "Walsall North",
+      "Vote": "No",
+      "lower_name": "eddie hughes"
+    },
+    "jane hunt": {
+      "Member": "Jane Hunt",
+      "Party": "Conservative",
+      "Constituency": "Loughborough",
+      "Vote": "No",
+      "lower_name": "jane hunt"
+    },
+    "jeremy hunt": {
+      "Member": "Jeremy Hunt",
+      "Party": "Conservative",
+      "Constituency": "South West Surrey",
+      "Vote": "No",
+      "lower_name": "jeremy hunt"
+    },
+    "tom hunt": {
+      "Member": "Tom Hunt",
+      "Party": "Conservative",
+      "Constituency": "Ipswich",
+      "Vote": "No",
+      "lower_name": "tom hunt"
+    },
+    "rupa huq": {
+      "Member": "Rupa Huq",
+      "Party": "Independent",
+      "Constituency": "Ealing Central and Acton",
+      "Vote": "Aye",
+      "lower_name": "rupa huq"
+    },
+    "imran hussain": {
+      "Member": "Imran Hussain",
+      "Party": "Labour",
+      "Constituency": "Bradford East",
+      "Vote": "Aye",
+      "lower_name": "imran hussain"
+    },
+    "alister jack": {
+      "Member": "Alister Jack",
+      "Party": "Conservative",
+      "Constituency": "Dumfries and Galloway",
+      "Vote": "No Vote Recorded",
+      "lower_name": "alister jack"
+    },
+    "christine jardine": {
+      "Member": "Christine Jardine",
+      "Party": "Liberal Democrat",
+      "Constituency": "Edinburgh West",
+      "Vote": "Aye",
+      "lower_name": "christine jardine"
+    },
+    "dan jarvis": {
+      "Member": "Dan Jarvis",
+      "Party": "Labour",
+      "Constituency": "Barnsley Central",
+      "Vote": "Aye",
+      "lower_name": "dan jarvis"
+    },
+    "sajid javid": {
+      "Member": "Sajid Javid",
+      "Party": "Conservative",
+      "Constituency": "Bromsgrove",
+      "Vote": "No",
+      "lower_name": "sajid javid"
+    },
+    "ranil jayawardena": {
+      "Member": "Ranil Jayawardena",
+      "Party": "Conservative",
+      "Constituency": "North East Hampshire",
+      "Vote": "No",
+      "lower_name": "ranil jayawardena"
+    },
+    "bernard jenkin": {
+      "Member": "Bernard Jenkin",
+      "Party": "Conservative",
+      "Constituency": "Harwich and North Essex",
+      "Vote": "No",
+      "lower_name": "bernard jenkin"
+    },
+    "mark jenkinson": {
+      "Member": "Mark Jenkinson",
+      "Party": "Conservative",
+      "Constituency": "Workington",
+      "Vote": "Teller - Noes",
+      "lower_name": "mark jenkinson"
+    },
+    "andrea jenkyns": {
+      "Member": "Andrea Jenkyns",
+      "Party": "Conservative",
+      "Constituency": "Morley and Outwood",
+      "Vote": "No",
+      "lower_name": "andrea jenkyns"
+    },
+    "robert jenrick": {
+      "Member": "Robert Jenrick",
+      "Party": "Conservative",
+      "Constituency": "Newark",
+      "Vote": "No",
+      "lower_name": "robert jenrick"
+    },
+    "boris johnson": {
+      "Member": "Boris Johnson",
+      "Party": "Conservative",
+      "Constituency": "Uxbridge and South Ruislip",
+      "Vote": "No Vote Recorded",
+      "lower_name": "boris johnson"
+    },
+    "diana johnson": {
+      "Member": "Diana Johnson",
+      "Party": "Labour",
+      "Constituency": "Kingston upon Hull North",
+      "Vote": "No Vote Recorded",
+      "lower_name": "diana johnson"
+    },
+    "caroline johnson": {
+      "Member": "Caroline Johnson",
+      "Party": "Conservative",
+      "Constituency": "Sleaford and North Hykeham",
+      "Vote": "No",
+      "lower_name": "caroline johnson"
+    },
+    "gareth johnson": {
+      "Member": "Gareth Johnson",
+      "Party": "Conservative",
+      "Constituency": "Dartford",
+      "Vote": "No",
+      "lower_name": "gareth johnson"
+    },
+    "kim johnson": {
+      "Member": "Kim Johnson",
+      "Party": "Labour",
+      "Constituency": "Liverpool, Riverside",
+      "Vote": "Aye",
+      "lower_name": "kim johnson"
+    },
+    "david johnston": {
+      "Member": "David Johnston",
+      "Party": "Conservative",
+      "Constituency": "Wantage",
+      "Vote": "No",
+      "lower_name": "david johnston"
+    },
+    "andrew jones": {
+      "Member": "Andrew Jones",
+      "Party": "Conservative",
+      "Constituency": "Harrogate and Knaresborough",
+      "Vote": "No",
+      "lower_name": "andrew jones"
+    },
+    "darren jones": {
+      "Member": "Darren Jones",
+      "Party": "Labour",
+      "Constituency": "Bristol North West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "darren jones"
+    },
+    "fay jones": {
+      "Member": "Fay Jones",
+      "Party": "Conservative",
+      "Constituency": "Brecon and Radnorshire",
+      "Vote": "No",
+      "lower_name": "fay jones"
+    },
+    "gerald jones": {
+      "Member": "Gerald Jones",
+      "Party": "Labour",
+      "Constituency": "Merthyr Tydfil and Rhymney",
+      "Vote": "Aye",
+      "lower_name": "gerald jones"
+    },
+    "david jones": {
+      "Member": "David Jones",
+      "Party": "Conservative",
+      "Constituency": "Clwyd West",
+      "Vote": "No",
+      "lower_name": "david jones"
+    },
+    "kevan jones": {
+      "Member": "Kevan Jones",
+      "Party": "Labour",
+      "Constituency": "North Durham",
+      "Vote": "Aye",
+      "lower_name": "kevan jones"
+    },
+    "marcus jones": {
+      "Member": "Marcus Jones",
+      "Party": "Conservative",
+      "Constituency": "Nuneaton",
+      "Vote": "No",
+      "lower_name": "marcus jones"
+    },
+    "ruth jones": {
+      "Member": "Ruth Jones",
+      "Party": "Labour",
+      "Constituency": "Newport West",
+      "Vote": "Aye",
+      "lower_name": "ruth jones"
+    },
+    "sarah jones": {
+      "Member": "Sarah Jones",
+      "Party": "Labour",
+      "Constituency": "Croydon Central",
+      "Vote": "Aye",
+      "lower_name": "sarah jones"
+    },
+    "simon jupp": {
+      "Member": "Simon Jupp",
+      "Party": "Conservative",
+      "Constituency": "East Devon",
+      "Vote": "No",
+      "lower_name": "simon jupp"
+    },
+    "mike kane": {
+      "Member": "Mike Kane",
+      "Party": "Labour",
+      "Constituency": "Wythenshawe and Sale East",
+      "Vote": "Aye",
+      "lower_name": "mike kane"
+    },
+    "daniel kawczynski": {
+      "Member": "Daniel Kawczynski",
+      "Party": "Conservative",
+      "Constituency": "Shrewsbury and Atcham",
+      "Vote": "No",
+      "lower_name": "daniel kawczynski"
+    },
+    "alicia kearns": {
+      "Member": "Alicia Kearns",
+      "Party": "Conservative",
+      "Constituency": "Rutland and Melton",
+      "Vote": "No",
+      "lower_name": "alicia kearns"
+    },
+    "gillian keegan": {
+      "Member": "Gillian Keegan",
+      "Party": "Conservative",
+      "Constituency": "Chichester",
+      "Vote": "No Vote Recorded",
+      "lower_name": "gillian keegan"
+    },
+    "barbara keeley": {
+      "Member": "Barbara Keeley",
+      "Party": "Labour",
+      "Constituency": "Worsley and Eccles South",
+      "Vote": "Aye",
+      "lower_name": "barbara keeley"
+    },
+    "liz kendall": {
+      "Member": "Liz Kendall",
+      "Party": "Labour",
+      "Constituency": "Leicester West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "liz kendall"
+    },
+    "afzal khan": {
+      "Member": "Afzal Khan",
+      "Party": "Labour",
+      "Constituency": "Manchester, Gorton",
+      "Vote": "Aye",
+      "lower_name": "afzal khan"
+    },
+    "stephen kinnock": {
+      "Member": "Stephen Kinnock",
+      "Party": "Labour",
+      "Constituency": "Aberavon",
+      "Vote": "Aye",
+      "lower_name": "stephen kinnock"
+    },
+    "julian knight": {
+      "Member": "Julian Knight",
+      "Party": "Conservative",
+      "Constituency": "Solihull",
+      "Vote": "No",
+      "lower_name": "julian knight"
+    },
+    "greg knight": {
+      "Member": "Greg Knight",
+      "Party": "Conservative",
+      "Constituency": "East Yorkshire",
+      "Vote": "No",
+      "lower_name": "greg knight"
+    },
+    "kate kniveton": {
+      "Member": "Kate Kniveton",
+      "Party": "Conservative",
+      "Constituency": "Burton",
+      "Vote": "No",
+      "lower_name": "kate kniveton"
+    },
+    "danny kruger": {
+      "Member": "Danny Kruger",
+      "Party": "Conservative",
+      "Constituency": "Devizes",
+      "Vote": "No",
+      "lower_name": "danny kruger"
+    },
+    "kwasi kwarteng": {
+      "Member": "Kwasi Kwarteng",
+      "Party": "Conservative",
+      "Constituency": "Spelthorne",
+      "Vote": "No Vote Recorded",
+      "lower_name": "kwasi kwarteng"
+    },
+    "peter kyle": {
+      "Member": "Peter Kyle",
+      "Party": "Labour",
+      "Constituency": "Hove",
+      "Vote": "Aye",
+      "lower_name": "peter kyle"
+    },
+    "eleanor laing": {
+      "Member": "Eleanor Laing",
+      "Party": "Deputy Speaker",
+      "Constituency": "Epping Forest",
+      "Vote": "No Vote Recorded",
+      "lower_name": "eleanor laing"
+    },
+    "ben lake": {
+      "Member": "Ben Lake",
+      "Party": "Plaid Cymru",
+      "Constituency": "Ceredigion",
+      "Vote": "Aye",
+      "lower_name": "ben lake"
+    },
+    "david lammy": {
+      "Member": "David Lammy",
+      "Party": "Labour",
+      "Constituency": "Tottenham",
+      "Vote": "Aye",
+      "lower_name": "david lammy"
+    },
+    "john lamont": {
+      "Member": "John Lamont",
+      "Party": "Conservative",
+      "Constituency": "Berwickshire, Roxburgh and Selkirk",
+      "Vote": "No",
+      "lower_name": "john lamont"
+    },
+    "robert largan": {
+      "Member": "Robert Largan",
+      "Party": "Conservative",
+      "Constituency": "High Peak",
+      "Vote": "No Vote Recorded",
+      "lower_name": "robert largan"
+    },
+    "pauline latham": {
+      "Member": "Pauline Latham",
+      "Party": "Conservative",
+      "Constituency": "Mid Derbyshire",
+      "Vote": "No Vote Recorded",
+      "lower_name": "pauline latham"
+    },
+    "ian lavery": {
+      "Member": "Ian Lavery",
+      "Party": "Labour",
+      "Constituency": "Wansbeck",
+      "Vote": "Aye",
+      "lower_name": "ian lavery"
+    },
+    "chris law": {
+      "Member": "Chris Law",
+      "Party": "Scottish National Party",
+      "Constituency": "Dundee West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "chris law"
+    },
+    "kim leadbeater": {
+      "Member": "Kim Leadbeater",
+      "Party": "Labour",
+      "Constituency": "Batley and Spen",
+      "Vote": "Aye",
+      "lower_name": "kim leadbeater"
+    },
+    "andrea leadsom": {
+      "Member": "Andrea Leadsom",
+      "Party": "Conservative",
+      "Constituency": "South Northamptonshire",
+      "Vote": "No",
+      "lower_name": "andrea leadsom"
+    },
+    "edward leigh": {
+      "Member": "Edward Leigh",
+      "Party": "Conservative",
+      "Constituency": "Gainsborough",
+      "Vote": "No",
+      "lower_name": "edward leigh"
+    },
+    "ian levy": {
+      "Member": "Ian Levy",
+      "Party": "Conservative",
+      "Constituency": "Blyth Valley",
+      "Vote": "No",
+      "lower_name": "ian levy"
+    },
+    "emma lewell-buck": {
+      "Member": "Emma Lewell-Buck",
+      "Party": "Labour",
+      "Constituency": "South Shields",
+      "Vote": "Aye",
+      "lower_name": "emma lewell-buck"
+    },
+    "andrew lewer": {
+      "Member": "Andrew Lewer",
+      "Party": "Conservative",
+      "Constituency": "Northampton South",
+      "Vote": "No",
+      "lower_name": "andrew lewer"
+    },
+    "brandon lewis": {
+      "Member": "Brandon Lewis",
+      "Party": "Conservative",
+      "Constituency": "Great Yarmouth",
+      "Vote": "No",
+      "lower_name": "brandon lewis"
+    },
+    "clive lewis": {
+      "Member": "Clive Lewis",
+      "Party": "Labour",
+      "Constituency": "Norwich South",
+      "Vote": "No Vote Recorded",
+      "lower_name": "clive lewis"
+    },
+    "julian lewis": {
+      "Member": "Julian Lewis",
+      "Party": "Conservative",
+      "Constituency": "New Forest East",
+      "Vote": "No",
+      "lower_name": "julian lewis"
+    },
+    "ian liddell-grainger": {
+      "Member": "Ian Liddell-Grainger",
+      "Party": "Conservative",
+      "Constituency": "Bridgwater and West Somerset",
+      "Vote": "No",
+      "lower_name": "ian liddell-grainger"
+    },
+    "simon lightwood": {
+      "Member": "Simon Lightwood",
+      "Party": "Labour",
+      "Constituency": "Wakefield",
+      "Vote": "Aye",
+      "lower_name": "simon lightwood"
+    },
+    "david linden": {
+      "Member": "David Linden",
+      "Party": "Scottish National Party",
+      "Constituency": "Glasgow East",
+      "Vote": "No Vote Recorded",
+      "lower_name": "david linden"
+    },
+    "tony lloyd": {
+      "Member": "Tony Lloyd",
+      "Party": "Labour",
+      "Constituency": "Rochdale",
+      "Vote": "No Vote Recorded",
+      "lower_name": "tony lloyd"
+    },
+    "carla lockhart": {
+      "Member": "Carla Lockhart",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "Upper Bann",
+      "Vote": "No Vote Recorded",
+      "lower_name": "carla lockhart"
+    },
+    "chris loder": {
+      "Member": "Chris Loder",
+      "Party": "Conservative",
+      "Constituency": "West Dorset",
+      "Vote": "No Vote Recorded",
+      "lower_name": "chris loder"
+    },
+    "mark logan": {
+      "Member": "Mark Logan",
+      "Party": "Conservative",
+      "Constituency": "Bolton North East",
+      "Vote": "No Vote Recorded",
+      "lower_name": "mark logan"
+    },
+    "rebecca long bailey": {
+      "Member": "Rebecca Long Bailey",
+      "Party": "Labour",
+      "Constituency": "Salford and Eccles",
+      "Vote": "Aye",
+      "lower_name": "rebecca long bailey"
+    },
+    "marco longhi": {
+      "Member": "Marco Longhi",
+      "Party": "Conservative",
+      "Constituency": "Dudley North",
+      "Vote": "No",
+      "lower_name": "marco longhi"
+    },
+    "julia lopez": {
+      "Member": "Julia Lopez",
+      "Party": "Conservative",
+      "Constituency": "Hornchurch and Upminster",
+      "Vote": "No",
+      "lower_name": "julia lopez"
+    },
+    "jack lopresti": {
+      "Member": "Jack Lopresti",
+      "Party": "Conservative",
+      "Constituency": "Filton and Bradley Stoke",
+      "Vote": "No",
+      "lower_name": "jack lopresti"
+    },
+    "jonathan lord": {
+      "Member": "Jonathan Lord",
+      "Party": "Conservative",
+      "Constituency": "Woking",
+      "Vote": "No",
+      "lower_name": "jonathan lord"
+    },
+    "tim loughton": {
+      "Member": "Tim Loughton",
+      "Party": "Conservative",
+      "Constituency": "East Worthing and Shoreham",
+      "Vote": "No",
+      "lower_name": "tim loughton"
+    },
+    "caroline lucas": {
+      "Member": "Caroline Lucas",
+      "Party": "Green Party",
+      "Constituency": "Brighton, Pavilion",
+      "Vote": "Aye",
+      "lower_name": "caroline lucas"
+    },
+    "holly lynch": {
+      "Member": "Holly Lynch",
+      "Party": "Labour",
+      "Constituency": "Halifax",
+      "Vote": "Aye",
+      "lower_name": "holly lynch"
+    },
+    "kenny macaskill": {
+      "Member": "Kenny MacAskill",
+      "Party": "Alba Party",
+      "Constituency": "East Lothian",
+      "Vote": "Aye",
+      "lower_name": "kenny macaskill"
+    },
+    "craig mackinlay": {
+      "Member": "Craig Mackinlay",
+      "Party": "Conservative",
+      "Constituency": "South Thanet",
+      "Vote": "No",
+      "lower_name": "craig mackinlay"
+    },
+    "cherilyn mackrory": {
+      "Member": "Cherilyn Mackrory",
+      "Party": "Conservative",
+      "Constituency": "Truro and Falmouth",
+      "Vote": "No",
+      "lower_name": "cherilyn mackrory"
+    },
+    "rachel maclean": {
+      "Member": "Rachel Maclean",
+      "Party": "Conservative",
+      "Constituency": "Redditch",
+      "Vote": "No",
+      "lower_name": "rachel maclean"
+    },
+    "angus brendan macneil": {
+      "Member": "Angus Brendan MacNeil",
+      "Party": "Scottish National Party",
+      "Constituency": "Na h-Eileanan an Iar",
+      "Vote": "Aye",
+      "lower_name": "angus brendan macneil"
+    },
+    "justin madders": {
+      "Member": "Justin Madders",
+      "Party": "Labour",
+      "Constituency": "Ellesmere Port and Neston",
+      "Vote": "Aye",
+      "lower_name": "justin madders"
+    },
+    "khalid mahmood": {
+      "Member": "Khalid Mahmood",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Perry Barr",
+      "Vote": "Aye",
+      "lower_name": "khalid mahmood"
+    },
+    "shabana mahmood": {
+      "Member": "Shabana Mahmood",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Ladywood",
+      "Vote": "Aye",
+      "lower_name": "shabana mahmood"
+    },
+    "alan mak": {
+      "Member": "Alan Mak",
+      "Party": "Conservative",
+      "Constituency": "Havant",
+      "Vote": "No",
+      "lower_name": "alan mak"
+    },
+    "seema malhotra": {
+      "Member": "Seema Malhotra",
+      "Party": "Labour",
+      "Constituency": "Feltham and Heston",
+      "Vote": "Aye",
+      "lower_name": "seema malhotra"
+    },
+    "kit malthouse": {
+      "Member": "Kit Malthouse",
+      "Party": "Conservative",
+      "Constituency": "North West Hampshire",
+      "Vote": "No",
+      "lower_name": "kit malthouse"
+    },
+    "anthony mangnall": {
+      "Member": "Anthony Mangnall",
+      "Party": "Conservative",
+      "Constituency": "Totnes",
+      "Vote": "No",
+      "lower_name": "anthony mangnall"
+    },
+    "scott mann": {
+      "Member": "Scott Mann",
+      "Party": "Conservative",
+      "Constituency": "North Cornwall",
+      "Vote": "No",
+      "lower_name": "scott mann"
+    },
+    "julie marson": {
+      "Member": "Julie Marson",
+      "Party": "Conservative",
+      "Constituency": "Hertford and Stortford",
+      "Vote": "No",
+      "lower_name": "julie marson"
+    },
+    "rachael maskell": {
+      "Member": "Rachael Maskell",
+      "Party": "Labour",
+      "Constituency": "York Central",
+      "Vote": "Aye",
+      "lower_name": "rachael maskell"
+    },
+    "paul maskey": {
+      "Member": "Paul Maskey",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "Belfast West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "paul maskey"
+    },
+    "christian matheson": {
+      "Member": "Christian Matheson",
+      "Party": "Labour",
+      "Constituency": "City of Chester",
+      "Vote": "Aye",
+      "lower_name": "christian matheson"
+    },
+    "theresa may": {
+      "Member": "Theresa May",
+      "Party": "Conservative",
+      "Constituency": "Maidenhead",
+      "Vote": "No Vote Recorded",
+      "lower_name": "theresa may"
+    },
+    "jerome mayhew": {
+      "Member": "Jerome Mayhew",
+      "Party": "Conservative",
+      "Constituency": "Broadland",
+      "Vote": "No",
+      "lower_name": "jerome mayhew"
+    },
+    "paul maynard": {
+      "Member": "Paul Maynard",
+      "Party": "Conservative",
+      "Constituency": "Blackpool North and Cleveleys",
+      "Vote": "No",
+      "lower_name": "paul maynard"
+    },
+    "steve mccabe": {
+      "Member": "Steve McCabe",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Selly Oak",
+      "Vote": "Aye",
+      "lower_name": "steve mccabe"
+    },
+    "kerry mccarthy": {
+      "Member": "Kerry McCarthy",
+      "Party": "Labour",
+      "Constituency": "Bristol East",
+      "Vote": "Aye",
+      "lower_name": "kerry mccarthy"
+    },
+    "jason mccartney": {
+      "Member": "Jason McCartney",
+      "Party": "Conservative",
+      "Constituency": "Colne Valley",
+      "Vote": "No",
+      "lower_name": "jason mccartney"
+    },
+    "karl mccartney": {
+      "Member": "Karl McCartney",
+      "Party": "Conservative",
+      "Constituency": "Lincoln",
+      "Vote": "No",
+      "lower_name": "karl mccartney"
+    },
+    "siobhain mcdonagh": {
+      "Member": "Siobhain McDonagh",
+      "Party": "Labour",
+      "Constituency": "Mitcham and Morden",
+      "Vote": "Aye",
+      "lower_name": "siobhain mcdonagh"
+    },
+    "andy mcdonald": {
+      "Member": "Andy McDonald",
+      "Party": "Labour",
+      "Constituency": "Middlesbrough",
+      "Vote": "No Vote Recorded",
+      "lower_name": "andy mcdonald"
+    },
+    "stewart malcolm mcdonald": {
+      "Member": "Stewart Malcolm McDonald",
+      "Party": "Scottish National Party",
+      "Constituency": "Glasgow South",
+      "Vote": "No Vote Recorded",
+      "lower_name": "stewart malcolm mcdonald"
+    },
+    "stuart c mcdonald": {
+      "Member": "Stuart C McDonald",
+      "Party": "Scottish National Party",
+      "Constituency": "Cumbernauld, Kilsyth and Kirkintilloch East",
+      "Vote": "Aye",
+      "lower_name": "stuart c mcdonald"
+    },
+    "john mcdonnell": {
+      "Member": "John McDonnell",
+      "Party": "Labour",
+      "Constituency": "Hayes and Harlington",
+      "Vote": "Aye",
+      "lower_name": "john mcdonnell"
+    },
+    "pat mcfadden": {
+      "Member": "Pat McFadden",
+      "Party": "Labour",
+      "Constituency": "Wolverhampton South East",
+      "Vote": "Aye",
+      "lower_name": "pat mcfadden"
+    },
+    "conor mcginn": {
+      "Member": "Conor McGinn",
+      "Party": "Labour",
+      "Constituency": "St Helens North",
+      "Vote": "No Vote Recorded",
+      "lower_name": "conor mcginn"
+    },
+    "alison mcgovern": {
+      "Member": "Alison McGovern",
+      "Party": "Labour",
+      "Constituency": "Wirral South",
+      "Vote": "Aye",
+      "lower_name": "alison mcgovern"
+    },
+    "catherine mckinnell": {
+      "Member": "Catherine McKinnell",
+      "Party": "Labour",
+      "Constituency": "Newcastle upon Tyne North",
+      "Vote": "Aye",
+      "lower_name": "catherine mckinnell"
+    },
+    "anne mclaughlin": {
+      "Member": "Anne McLaughlin",
+      "Party": "Scottish National Party",
+      "Constituency": "Glasgow North East",
+      "Vote": "Aye",
+      "lower_name": "anne mclaughlin"
+    },
+    "jim mcmahon": {
+      "Member": "Jim McMahon",
+      "Party": "Labour",
+      "Constituency": "Oldham West and Royton",
+      "Vote": "No Vote Recorded",
+      "lower_name": "jim mcmahon"
+    },
+    "anna mcmorrin": {
+      "Member": "Anna McMorrin",
+      "Party": "Labour",
+      "Constituency": "Cardiff North",
+      "Vote": "Aye",
+      "lower_name": "anna mcmorrin"
+    },
+    "john mcnally": {
+      "Member": "John McNally",
+      "Party": "Scottish National Party",
+      "Constituency": "Falkirk",
+      "Vote": "Aye",
+      "lower_name": "john mcnally"
+    },
+    "stephen mcpartland": {
+      "Member": "Stephen McPartland",
+      "Party": "Conservative",
+      "Constituency": "Stevenage",
+      "Vote": "No",
+      "lower_name": "stephen mcpartland"
+    },
+    "esther mcvey": {
+      "Member": "Esther McVey",
+      "Party": "Conservative",
+      "Constituency": "Tatton",
+      "Vote": "No",
+      "lower_name": "esther mcvey"
+    },
+    "ian mearns": {
+      "Member": "Ian Mearns",
+      "Party": "Labour",
+      "Constituency": "Gateshead",
+      "Vote": "No Vote Recorded",
+      "lower_name": "ian mearns"
+    },
+    "mark menzies": {
+      "Member": "Mark Menzies",
+      "Party": "Conservative",
+      "Constituency": "Fylde",
+      "Vote": "No",
+      "lower_name": "mark menzies"
+    },
+    "johnny mercer": {
+      "Member": "Johnny Mercer",
+      "Party": "Conservative",
+      "Constituency": "Plymouth, Moor View",
+      "Vote": "No",
+      "lower_name": "johnny mercer"
+    },
+    "huw merriman": {
+      "Member": "Huw Merriman",
+      "Party": "Conservative",
+      "Constituency": "Bexhill and Battle",
+      "Vote": "No",
+      "lower_name": "huw merriman"
+    },
+    "stephen metcalfe": {
+      "Member": "Stephen Metcalfe",
+      "Party": "Conservative",
+      "Constituency": "South Basildon and East Thurrock",
+      "Vote": "No",
+      "lower_name": "stephen metcalfe"
+    },
+    "edward miliband": {
+      "Member": "Edward Miliband",
+      "Party": "Labour",
+      "Constituency": "Doncaster North",
+      "Vote": "Aye",
+      "lower_name": "edward miliband"
+    },
+    "robin millar": {
+      "Member": "Robin Millar",
+      "Party": "Conservative",
+      "Constituency": "Aberconwy",
+      "Vote": "No",
+      "lower_name": "robin millar"
+    },
+    "maria miller": {
+      "Member": "Maria Miller",
+      "Party": "Conservative",
+      "Constituency": "Basingstoke",
+      "Vote": "No",
+      "lower_name": "maria miller"
+    },
+    "amanda milling": {
+      "Member": "Amanda Milling",
+      "Party": "Conservative",
+      "Constituency": "Cannock Chase",
+      "Vote": "No",
+      "lower_name": "amanda milling"
+    },
+    "nigel mills": {
+      "Member": "Nigel Mills",
+      "Party": "Conservative",
+      "Constituency": "Amber Valley",
+      "Vote": "No",
+      "lower_name": "nigel mills"
+    },
+    "navendu mishra": {
+      "Member": "Navendu Mishra",
+      "Party": "Labour",
+      "Constituency": "Stockport",
+      "Vote": "Aye",
+      "lower_name": "navendu mishra"
+    },
+    "andrew mitchell": {
+      "Member": "Andrew Mitchell",
+      "Party": "Conservative",
+      "Constituency": "Sutton Coldfield",
+      "Vote": "No",
+      "lower_name": "andrew mitchell"
+    },
+    "gagan mohindra": {
+      "Member": "Gagan Mohindra",
+      "Party": "Conservative",
+      "Constituency": "South West Hertfordshire",
+      "Vote": "No",
+      "lower_name": "gagan mohindra"
+    },
+    "francie molloy": {
+      "Member": "Francie Molloy",
+      "Party": "Sinn F\u00e9in",
+      "Constituency": "Mid Ulster",
+      "Vote": "No Vote Recorded",
+      "lower_name": "francie molloy"
+    },
+    "carol monaghan": {
+      "Member": "Carol Monaghan",
+      "Party": "Scottish National Party",
+      "Constituency": "Glasgow North West",
+      "Vote": "Aye",
+      "lower_name": "carol monaghan"
+    },
+    "damien moore": {
+      "Member": "Damien Moore",
+      "Party": "Conservative",
+      "Constituency": "Southport",
+      "Vote": "No",
+      "lower_name": "damien moore"
+    },
+    "robbie moore": {
+      "Member": "Robbie Moore",
+      "Party": "Conservative",
+      "Constituency": "Keighley",
+      "Vote": "No",
+      "lower_name": "robbie moore"
+    },
+    "layla moran": {
+      "Member": "Layla Moran",
+      "Party": "Liberal Democrat",
+      "Constituency": "Oxford West and Abingdon",
+      "Vote": "Aye",
+      "lower_name": "layla moran"
+    },
+    "penny mordaunt": {
+      "Member": "Penny Mordaunt",
+      "Party": "Conservative",
+      "Constituency": "Portsmouth North",
+      "Vote": "No",
+      "lower_name": "penny mordaunt"
+    },
+    "jessica morden": {
+      "Member": "Jessica Morden",
+      "Party": "Labour",
+      "Constituency": "Newport East",
+      "Vote": "Teller - Ayes",
+      "lower_name": "jessica morden"
+    },
+    "helen morgan": {
+      "Member": "Helen Morgan",
+      "Party": "Liberal Democrat",
+      "Constituency": "North Shropshire",
+      "Vote": "Aye",
+      "lower_name": "helen morgan"
+    },
+    "stephen morgan": {
+      "Member": "Stephen Morgan",
+      "Party": "Labour",
+      "Constituency": "Portsmouth South",
+      "Vote": "Aye",
+      "lower_name": "stephen morgan"
+    },
+    "anne marie morris": {
+      "Member": "Anne Marie Morris",
+      "Party": "Conservative",
+      "Constituency": "Newton Abbot",
+      "Vote": "No",
+      "lower_name": "anne marie morris"
+    },
+    "david morris": {
+      "Member": "David Morris",
+      "Party": "Conservative",
+      "Constituency": "Morecambe and Lunesdale",
+      "Vote": "No",
+      "lower_name": "david morris"
+    },
+    "grahame morris": {
+      "Member": "Grahame Morris",
+      "Party": "Labour",
+      "Constituency": "Easington",
+      "Vote": "Aye",
+      "lower_name": "grahame morris"
+    },
+    "james morris": {
+      "Member": "James Morris",
+      "Party": "Conservative",
+      "Constituency": "Halesowen and Rowley Regis",
+      "Vote": "No",
+      "lower_name": "james morris"
+    },
+    "joy morrissey": {
+      "Member": "Joy Morrissey",
+      "Party": "Conservative",
+      "Constituency": "Beaconsfield",
+      "Vote": "No",
+      "lower_name": "joy morrissey"
+    },
+    "jill mortimer": {
+      "Member": "Jill Mortimer",
+      "Party": "Conservative",
+      "Constituency": "Hartlepool",
+      "Vote": "No",
+      "lower_name": "jill mortimer"
+    },
+    "wendy morton": {
+      "Member": "Wendy Morton",
+      "Party": "Conservative",
+      "Constituency": "Aldridge-Brownhills",
+      "Vote": "No Vote Recorded",
+      "lower_name": "wendy morton"
+    },
+    "kieran mullan": {
+      "Member": "Kieran Mullan",
+      "Party": "Conservative",
+      "Constituency": "Crewe and Nantwich",
+      "Vote": "No",
+      "lower_name": "kieran mullan"
+    },
+    "holly mumby-croft": {
+      "Member": "Holly Mumby-Croft",
+      "Party": "Conservative",
+      "Constituency": "Scunthorpe",
+      "Vote": "No",
+      "lower_name": "holly mumby-croft"
+    },
+    "david mundell": {
+      "Member": "David Mundell",
+      "Party": "Conservative",
+      "Constituency": "Dumfriesshire, Clydesdale and Tweeddale",
+      "Vote": "No",
+      "lower_name": "david mundell"
+    },
+    "ian murray": {
+      "Member": "Ian Murray",
+      "Party": "Labour",
+      "Constituency": "Edinburgh South",
+      "Vote": "Aye",
+      "lower_name": "ian murray"
+    },
+    "james murray": {
+      "Member": "James Murray",
+      "Party": "Labour",
+      "Constituency": "Ealing North",
+      "Vote": "Aye",
+      "lower_name": "james murray"
+    },
+    "sheryll murray": {
+      "Member": "Sheryll Murray",
+      "Party": "Conservative",
+      "Constituency": "South East Cornwall",
+      "Vote": "No",
+      "lower_name": "sheryll murray"
+    },
+    "andrew murrison": {
+      "Member": "Andrew Murrison",
+      "Party": "Conservative",
+      "Constituency": "South West Wiltshire",
+      "Vote": "No",
+      "lower_name": "andrew murrison"
+    },
+    "lisa nandy": {
+      "Member": "Lisa Nandy",
+      "Party": "Labour",
+      "Constituency": "Wigan",
+      "Vote": "Aye",
+      "lower_name": "lisa nandy"
+    },
+    "robert neill": {
+      "Member": "Robert Neill",
+      "Party": "Conservative",
+      "Constituency": "Bromley and Chislehurst",
+      "Vote": "No",
+      "lower_name": "robert neill"
+    },
+    "gavin newlands": {
+      "Member": "Gavin Newlands",
+      "Party": "Scottish National Party",
+      "Constituency": "Paisley and Renfrewshire North",
+      "Vote": "No Vote Recorded",
+      "lower_name": "gavin newlands"
+    },
+    "charlotte nichols": {
+      "Member": "Charlotte Nichols",
+      "Party": "Labour",
+      "Constituency": "Warrington North",
+      "Vote": "Aye",
+      "lower_name": "charlotte nichols"
+    },
+    "lia nici": {
+      "Member": "Lia Nici",
+      "Party": "Conservative",
+      "Constituency": "Great Grimsby",
+      "Vote": "No",
+      "lower_name": "lia nici"
+    },
+    "john nicolson": {
+      "Member": "John Nicolson",
+      "Party": "Scottish National Party",
+      "Constituency": "Ochil and South Perthshire",
+      "Vote": "Aye",
+      "lower_name": "john nicolson"
+    },
+    "caroline nokes": {
+      "Member": "Caroline Nokes",
+      "Party": "Conservative",
+      "Constituency": "Romsey and Southampton North",
+      "Vote": "No",
+      "lower_name": "caroline nokes"
+    },
+    "jesse norman": {
+      "Member": "Jesse Norman",
+      "Party": "Conservative",
+      "Constituency": "Hereford and South Herefordshire",
+      "Vote": "No",
+      "lower_name": "jesse norman"
+    },
+    "alex norris": {
+      "Member": "Alex Norris",
+      "Party": "Labour",
+      "Constituency": "Nottingham North",
+      "Vote": "Aye",
+      "lower_name": "alex norris"
+    },
+    "neil o'brien": {
+      "Member": "Neil O'Brien",
+      "Party": "Conservative",
+      "Constituency": "Harborough",
+      "Vote": "No",
+      "lower_name": "neil o'brien"
+    },
+    "matthew offord": {
+      "Member": "Matthew Offord",
+      "Party": "Conservative",
+      "Constituency": "Hendon",
+      "Vote": "No",
+      "lower_name": "matthew offord"
+    },
+    "brendan o'hara": {
+      "Member": "Brendan O'Hara",
+      "Party": "Scottish National Party",
+      "Constituency": "Argyll and Bute",
+      "Vote": "Aye",
+      "lower_name": "brendan o'hara"
+    },
+    "sarah olney": {
+      "Member": "Sarah Olney",
+      "Party": "Liberal Democrat",
+      "Constituency": "Richmond Park",
+      "Vote": "Aye",
+      "lower_name": "sarah olney"
+    },
+    "chi onwurah": {
+      "Member": "Chi Onwurah",
+      "Party": "Labour",
+      "Constituency": "Newcastle upon Tyne Central",
+      "Vote": "Aye",
+      "lower_name": "chi onwurah"
+    },
+    "guy opperman": {
+      "Member": "Guy Opperman",
+      "Party": "Conservative",
+      "Constituency": "Hexham",
+      "Vote": "No",
+      "lower_name": "guy opperman"
+    },
+    "abena oppong-asare": {
+      "Member": "Abena Oppong-Asare",
+      "Party": "Labour",
+      "Constituency": "Erith and Thamesmead",
+      "Vote": "No Vote Recorded",
+      "lower_name": "abena oppong-asare"
+    },
+    "kate osamor": {
+      "Member": "Kate Osamor",
+      "Party": "Labour",
+      "Constituency": "Edmonton",
+      "Vote": "Aye",
+      "lower_name": "kate osamor"
+    },
+    "kate osborne": {
+      "Member": "Kate Osborne",
+      "Party": "Labour",
+      "Constituency": "Jarrow",
+      "Vote": "Aye",
+      "lower_name": "kate osborne"
+    },
+    "kirsten oswald": {
+      "Member": "Kirsten Oswald",
+      "Party": "Scottish National Party",
+      "Constituency": "East Renfrewshire",
+      "Vote": "Aye",
+      "lower_name": "kirsten oswald"
+    },
+    "taiwo owatemi": {
+      "Member": "Taiwo Owatemi",
+      "Party": "Labour",
+      "Constituency": "Coventry North West",
+      "Vote": "Aye",
+      "lower_name": "taiwo owatemi"
+    },
+    "sarah owen": {
+      "Member": "Sarah Owen",
+      "Party": "Labour",
+      "Constituency": "Luton North",
+      "Vote": "Aye",
+      "lower_name": "sarah owen"
+    },
+    "ian paisley": {
+      "Member": "Ian Paisley",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "North Antrim",
+      "Vote": "No Vote Recorded",
+      "lower_name": "ian paisley"
+    },
+    "priti patel": {
+      "Member": "Priti Patel",
+      "Party": "Conservative",
+      "Constituency": "Witham",
+      "Vote": "No Vote Recorded",
+      "lower_name": "priti patel"
+    },
+    "mark pawsey": {
+      "Member": "Mark Pawsey",
+      "Party": "Conservative",
+      "Constituency": "Rugby",
+      "Vote": "No Vote Recorded",
+      "lower_name": "mark pawsey"
+    },
+    "stephanie peacock": {
+      "Member": "Stephanie Peacock",
+      "Party": "Labour",
+      "Constituency": "Barnsley East",
+      "Vote": "Aye",
+      "lower_name": "stephanie peacock"
+    },
+    "mike penning": {
+      "Member": "Mike Penning",
+      "Party": "Conservative",
+      "Constituency": "Hemel Hempstead",
+      "Vote": "No",
+      "lower_name": "mike penning"
+    },
+    "matthew pennycook": {
+      "Member": "Matthew Pennycook",
+      "Party": "Labour",
+      "Constituency": "Greenwich and Woolwich",
+      "Vote": "Aye",
+      "lower_name": "matthew pennycook"
+    },
+    "john penrose": {
+      "Member": "John Penrose",
+      "Party": "Conservative",
+      "Constituency": "Weston-super-Mare",
+      "Vote": "No",
+      "lower_name": "john penrose"
+    },
+    "andrew percy": {
+      "Member": "Andrew Percy",
+      "Party": "Conservative",
+      "Constituency": "Brigg and Goole",
+      "Vote": "No",
+      "lower_name": "andrew percy"
+    },
+    "toby perkins": {
+      "Member": "Toby Perkins",
+      "Party": "Labour",
+      "Constituency": "Chesterfield",
+      "Vote": "Aye",
+      "lower_name": "toby perkins"
+    },
+    "jess phillips": {
+      "Member": "Jess Phillips",
+      "Party": "Labour",
+      "Constituency": "Birmingham, Yardley",
+      "Vote": "Aye",
+      "lower_name": "jess phillips"
+    },
+    "bridget phillipson": {
+      "Member": "Bridget Phillipson",
+      "Party": "Labour",
+      "Constituency": "Houghton and Sunderland South",
+      "Vote": "Aye",
+      "lower_name": "bridget phillipson"
+    },
+    "chris philp": {
+      "Member": "Chris Philp",
+      "Party": "Conservative",
+      "Constituency": "Croydon South",
+      "Vote": "No",
+      "lower_name": "chris philp"
+    },
+    "christopher pincher": {
+      "Member": "Christopher Pincher",
+      "Party": "Independent",
+      "Constituency": "Tamworth",
+      "Vote": "No Vote Recorded",
+      "lower_name": "christopher pincher"
+    },
+    "luke pollard": {
+      "Member": "Luke Pollard",
+      "Party": "Labour",
+      "Constituency": "Plymouth, Sutton and Devonport",
+      "Vote": "Aye",
+      "lower_name": "luke pollard"
+    },
+    "dan poulter": {
+      "Member": "Dan Poulter",
+      "Party": "Conservative",
+      "Constituency": "Central Suffolk and North Ipswich",
+      "Vote": "No",
+      "lower_name": "dan poulter"
+    },
+    "rebecca pow": {
+      "Member": "Rebecca Pow",
+      "Party": "Conservative",
+      "Constituency": "Taunton Deane",
+      "Vote": "No",
+      "lower_name": "rebecca pow"
+    },
+    "lucy powell": {
+      "Member": "Lucy Powell",
+      "Party": "Labour",
+      "Constituency": "Manchester Central",
+      "Vote": "Aye",
+      "lower_name": "lucy powell"
+    },
+    "victoria prentis": {
+      "Member": "Victoria Prentis",
+      "Party": "Conservative",
+      "Constituency": "Banbury",
+      "Vote": "No",
+      "lower_name": "victoria prentis"
+    },
+    "mark pritchard": {
+      "Member": "Mark Pritchard",
+      "Party": "Conservative",
+      "Constituency": "The Wrekin",
+      "Vote": "No",
+      "lower_name": "mark pritchard"
+    },
+    "tom pursglove": {
+      "Member": "Tom Pursglove",
+      "Party": "Conservative",
+      "Constituency": "Corby",
+      "Vote": "No",
+      "lower_name": "tom pursglove"
+    },
+    "anum qaisar": {
+      "Member": "Anum Qaisar",
+      "Party": "Scottish National Party",
+      "Constituency": "Airdrie and Shotts",
+      "Vote": "Aye",
+      "lower_name": "anum qaisar"
+    },
+    "jeremy quin": {
+      "Member": "Jeremy Quin",
+      "Party": "Conservative",
+      "Constituency": "Horsham",
+      "Vote": "No",
+      "lower_name": "jeremy quin"
+    },
+    "will quince": {
+      "Member": "Will Quince",
+      "Party": "Conservative",
+      "Constituency": "Colchester",
+      "Vote": "No",
+      "lower_name": "will quince"
+    },
+    "yasmin qureshi": {
+      "Member": "Yasmin Qureshi",
+      "Party": "Labour",
+      "Constituency": "Bolton South East",
+      "Vote": "Aye",
+      "lower_name": "yasmin qureshi"
+    },
+    "dominic raab": {
+      "Member": "Dominic Raab",
+      "Party": "Conservative",
+      "Constituency": "Esher and Walton",
+      "Vote": "No",
+      "lower_name": "dominic raab"
+    },
+    "tom randall": {
+      "Member": "Tom Randall",
+      "Party": "Conservative",
+      "Constituency": "Gedling",
+      "Vote": "No",
+      "lower_name": "tom randall"
+    },
+    "angela rayner": {
+      "Member": "Angela Rayner",
+      "Party": "Labour",
+      "Constituency": "Ashton-under-Lyne",
+      "Vote": "No Vote Recorded",
+      "lower_name": "angela rayner"
+    },
+    "john redwood": {
+      "Member": "John Redwood",
+      "Party": "Conservative",
+      "Constituency": "Wokingham",
+      "Vote": "No",
+      "lower_name": "john redwood"
+    },
+    "steve reed": {
+      "Member": "Steve Reed",
+      "Party": "Labour",
+      "Constituency": "Croydon North",
+      "Vote": "Aye",
+      "lower_name": "steve reed"
+    },
+    "christina rees": {
+      "Member": "Christina Rees",
+      "Party": "Independent",
+      "Constituency": "Neath",
+      "Vote": "No Vote Recorded",
+      "lower_name": "christina rees"
+    },
+    "jacob rees-mogg": {
+      "Member": "Jacob Rees-Mogg",
+      "Party": "Conservative",
+      "Constituency": "North East Somerset",
+      "Vote": "No",
+      "lower_name": "jacob rees-mogg"
+    },
+    "ellie reeves": {
+      "Member": "Ellie Reeves",
+      "Party": "Labour",
+      "Constituency": "Lewisham West and Penge",
+      "Vote": "Aye",
+      "lower_name": "ellie reeves"
+    },
+    "rachel reeves": {
+      "Member": "Rachel Reeves",
+      "Party": "Labour",
+      "Constituency": "Leeds West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "rachel reeves"
+    },
+    "jonathan reynolds": {
+      "Member": "Jonathan Reynolds",
+      "Party": "Labour",
+      "Constituency": "Stalybridge and Hyde",
+      "Vote": "Aye",
+      "lower_name": "jonathan reynolds"
+    },
+    "bell ribeiro-addy": {
+      "Member": "Bell Ribeiro-Addy",
+      "Party": "Labour",
+      "Constituency": "Streatham",
+      "Vote": "Aye",
+      "lower_name": "bell ribeiro-addy"
+    },
+    "nicola richards": {
+      "Member": "Nicola Richards",
+      "Party": "Conservative",
+      "Constituency": "West Bromwich East",
+      "Vote": "No",
+      "lower_name": "nicola richards"
+    },
+    "angela richardson": {
+      "Member": "Angela Richardson",
+      "Party": "Conservative",
+      "Constituency": "Guildford",
+      "Vote": "No Vote Recorded",
+      "lower_name": "angela richardson"
+    },
+    "marie rimmer": {
+      "Member": "Marie Rimmer",
+      "Party": "Labour",
+      "Constituency": "St Helens South and Whiston",
+      "Vote": "Aye",
+      "lower_name": "marie rimmer"
+    },
+    "rob roberts": {
+      "Member": "Rob Roberts",
+      "Party": "Independent",
+      "Constituency": "Delyn",
+      "Vote": "No Vote Recorded",
+      "lower_name": "rob roberts"
+    },
+    "laurence robertson": {
+      "Member": "Laurence Robertson",
+      "Party": "Conservative",
+      "Constituency": "Tewkesbury",
+      "Vote": "No",
+      "lower_name": "laurence robertson"
+    },
+    "gavin robinson": {
+      "Member": "Gavin Robinson",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "Belfast East",
+      "Vote": "No Vote Recorded",
+      "lower_name": "gavin robinson"
+    },
+    "mary robinson": {
+      "Member": "Mary Robinson",
+      "Party": "Conservative",
+      "Constituency": "Cheadle",
+      "Vote": "No",
+      "lower_name": "mary robinson"
+    },
+    "matt rodda": {
+      "Member": "Matt Rodda",
+      "Party": "Labour",
+      "Constituency": "Reading East",
+      "Vote": "Aye",
+      "lower_name": "matt rodda"
+    },
+    "andrew rosindell": {
+      "Member": "Andrew Rosindell",
+      "Party": "Conservative",
+      "Constituency": "Romford",
+      "Vote": "No Vote Recorded",
+      "lower_name": "andrew rosindell"
+    },
+    "douglas ross": {
+      "Member": "Douglas Ross",
+      "Party": "Conservative",
+      "Constituency": "Moray",
+      "Vote": "No",
+      "lower_name": "douglas ross"
+    },
+    "lee rowley": {
+      "Member": "Lee Rowley",
+      "Party": "Conservative",
+      "Constituency": "North East Derbyshire",
+      "Vote": "No",
+      "lower_name": "lee rowley"
+    },
+    "dean russell": {
+      "Member": "Dean Russell",
+      "Party": "Conservative",
+      "Constituency": "Watford",
+      "Vote": "No",
+      "lower_name": "dean russell"
+    },
+    "lloyd russell-moyle": {
+      "Member": "Lloyd Russell-Moyle",
+      "Party": "Labour",
+      "Constituency": "Brighton, Kemptown",
+      "Vote": "Aye",
+      "lower_name": "lloyd russell-moyle"
+    },
+    "david rutley": {
+      "Member": "David Rutley",
+      "Party": "Conservative",
+      "Constituency": "Macclesfield",
+      "Vote": "No",
+      "lower_name": "david rutley"
+    },
+    "gary sambrook": {
+      "Member": "Gary Sambrook",
+      "Party": "Conservative",
+      "Constituency": "Birmingham, Northfield",
+      "Vote": "No",
+      "lower_name": "gary sambrook"
+    },
+    "liz saville roberts": {
+      "Member": "Liz Saville Roberts",
+      "Party": "Plaid Cymru",
+      "Constituency": "Dwyfor Meirionnydd",
+      "Vote": "Aye",
+      "lower_name": "liz saville roberts"
+    },
+    "selaine saxby": {
+      "Member": "Selaine Saxby",
+      "Party": "Conservative",
+      "Constituency": "North Devon",
+      "Vote": "No",
+      "lower_name": "selaine saxby"
+    },
+    "paul scully": {
+      "Member": "Paul Scully",
+      "Party": "Conservative",
+      "Constituency": "Sutton and Cheam",
+      "Vote": "No",
+      "lower_name": "paul scully"
+    },
+    "bob seely": {
+      "Member": "Bob Seely",
+      "Party": "Conservative",
+      "Constituency": "Isle of Wight",
+      "Vote": "No Vote Recorded",
+      "lower_name": "bob seely"
+    },
+    "andrew selous": {
+      "Member": "Andrew Selous",
+      "Party": "Conservative",
+      "Constituency": "South West Bedfordshire",
+      "Vote": "No",
+      "lower_name": "andrew selous"
+    },
+    "naz shah": {
+      "Member": "Naz Shah",
+      "Party": "Labour",
+      "Constituency": "Bradford West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "naz shah"
+    },
+    "jim shannon": {
+      "Member": "Jim Shannon",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "Strangford",
+      "Vote": "No",
+      "lower_name": "jim shannon"
+    },
+    "grant shapps": {
+      "Member": "Grant Shapps",
+      "Party": "Conservative",
+      "Constituency": "Welwyn Hatfield",
+      "Vote": "No",
+      "lower_name": "grant shapps"
+    },
+    "alok sharma": {
+      "Member": "Alok Sharma",
+      "Party": "Conservative",
+      "Constituency": "Reading West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "alok sharma"
+    },
+    "virendra sharma": {
+      "Member": "Virendra Sharma",
+      "Party": "Labour",
+      "Constituency": "Ealing, Southall",
+      "Vote": "Aye",
+      "lower_name": "virendra sharma"
+    },
+    "barry sheerman": {
+      "Member": "Barry Sheerman",
+      "Party": "Labour",
+      "Constituency": "Huddersfield",
+      "Vote": "Aye",
+      "lower_name": "barry sheerman"
+    },
+    "alec shelbrooke": {
+      "Member": "Alec Shelbrooke",
+      "Party": "Conservative",
+      "Constituency": "Elmet and Rothwell",
+      "Vote": "No",
+      "lower_name": "alec shelbrooke"
+    },
+    "tommy sheppard": {
+      "Member": "Tommy Sheppard",
+      "Party": "Scottish National Party",
+      "Constituency": "Edinburgh East",
+      "Vote": "No Vote Recorded",
+      "lower_name": "tommy sheppard"
+    },
+    "tulip siddiq": {
+      "Member": "Tulip Siddiq",
+      "Party": "Labour",
+      "Constituency": "Hampstead and Kilburn",
+      "Vote": "Aye",
+      "lower_name": "tulip siddiq"
+    },
+    "david simmonds": {
+      "Member": "David Simmonds",
+      "Party": "Conservative",
+      "Constituency": "Ruislip, Northwood and Pinner",
+      "Vote": "No",
+      "lower_name": "david simmonds"
+    },
+    "chris skidmore": {
+      "Member": "Chris Skidmore",
+      "Party": "Conservative",
+      "Constituency": "Kingswood",
+      "Vote": "No Vote Recorded",
+      "lower_name": "chris skidmore"
+    },
+    "andy slaughter": {
+      "Member": "Andy Slaughter",
+      "Party": "Labour",
+      "Constituency": "Hammersmith",
+      "Vote": "Aye",
+      "lower_name": "andy slaughter"
+    },
+    "alyn smith": {
+      "Member": "Alyn Smith",
+      "Party": "Scottish National Party",
+      "Constituency": "Stirling",
+      "Vote": "Aye",
+      "lower_name": "alyn smith"
+    },
+    "cat smith": {
+      "Member": "Cat Smith",
+      "Party": "Labour",
+      "Constituency": "Lancaster and Fleetwood",
+      "Vote": "Aye",
+      "lower_name": "cat smith"
+    },
+    "chloe smith": {
+      "Member": "Chloe Smith",
+      "Party": "Conservative",
+      "Constituency": "Norwich North",
+      "Vote": "No",
+      "lower_name": "chloe smith"
+    },
+    "greg smith": {
+      "Member": "Greg Smith",
+      "Party": "Conservative",
+      "Constituency": "Buckingham",
+      "Vote": "No",
+      "lower_name": "greg smith"
+    },
+    "henry smith": {
+      "Member": "Henry Smith",
+      "Party": "Conservative",
+      "Constituency": "Crawley",
+      "Vote": "No Vote Recorded",
+      "lower_name": "henry smith"
+    },
+    "jeff smith": {
+      "Member": "Jeff Smith",
+      "Party": "Labour",
+      "Constituency": "Manchester, Withington",
+      "Vote": "Aye",
+      "lower_name": "jeff smith"
+    },
+    "julian smith": {
+      "Member": "Julian Smith",
+      "Party": "Conservative",
+      "Constituency": "Skipton and Ripon",
+      "Vote": "No",
+      "lower_name": "julian smith"
+    },
+    "nick smith": {
+      "Member": "Nick Smith",
+      "Party": "Labour",
+      "Constituency": "Blaenau Gwent",
+      "Vote": "Aye",
+      "lower_name": "nick smith"
+    },
+    "royston smith": {
+      "Member": "Royston Smith",
+      "Party": "Conservative",
+      "Constituency": "Southampton, Itchen",
+      "Vote": "No",
+      "lower_name": "royston smith"
+    },
+    "karin smyth": {
+      "Member": "Karin Smyth",
+      "Party": "Labour",
+      "Constituency": "Bristol South",
+      "Vote": "No Vote Recorded",
+      "lower_name": "karin smyth"
+    },
+    "alex sobel": {
+      "Member": "Alex Sobel",
+      "Party": "Labour",
+      "Constituency": "Leeds North West",
+      "Vote": "No Vote Recorded",
+      "lower_name": "alex sobel"
+    },
+    "amanda solloway": {
+      "Member": "Amanda Solloway",
+      "Party": "Conservative",
+      "Constituency": "Derby North",
+      "Vote": "Teller - Noes",
+      "lower_name": "amanda solloway"
+    },
+    "john spellar": {
+      "Member": "John Spellar",
+      "Party": "Labour",
+      "Constituency": "Warley",
+      "Vote": "Aye",
+      "lower_name": "john spellar"
+    },
+    "ben spencer": {
+      "Member": "Ben Spencer",
+      "Party": "Conservative",
+      "Constituency": "Runnymede and Weybridge",
+      "Vote": "No",
+      "lower_name": "ben spencer"
+    },
+    "mark spencer": {
+      "Member": "Mark Spencer",
+      "Party": "Conservative",
+      "Constituency": "Sherwood",
+      "Vote": "No",
+      "lower_name": "mark spencer"
+    },
+    "alexander stafford": {
+      "Member": "Alexander Stafford",
+      "Party": "Conservative",
+      "Constituency": "Rother Valley",
+      "Vote": "No",
+      "lower_name": "alexander stafford"
+    },
+    "keir starmer": {
+      "Member": "Keir Starmer",
+      "Party": "Labour",
+      "Constituency": "Holborn and St Pancras",
+      "Vote": "Aye",
+      "lower_name": "keir starmer"
+    },
+    "chris stephens": {
+      "Member": "Chris Stephens",
+      "Party": "Scottish National Party",
+      "Constituency": "Glasgow South West",
+      "Vote": "Aye",
+      "lower_name": "chris stephens"
+    },
+    "andrew stephenson": {
+      "Member": "Andrew Stephenson",
+      "Party": "Conservative",
+      "Constituency": "Pendle",
+      "Vote": "No",
+      "lower_name": "andrew stephenson"
+    },
+    "jo stevens": {
+      "Member": "Jo Stevens",
+      "Party": "Labour",
+      "Constituency": "Cardiff Central",
+      "Vote": "Aye",
+      "lower_name": "jo stevens"
+    },
+    "jane stevenson": {
+      "Member": "Jane Stevenson",
+      "Party": "Conservative",
+      "Constituency": "Wolverhampton North East",
+      "Vote": "No",
+      "lower_name": "jane stevenson"
+    },
+    "john stevenson": {
+      "Member": "John Stevenson",
+      "Party": "Conservative",
+      "Constituency": "Carlisle",
+      "Vote": "No",
+      "lower_name": "john stevenson"
+    },
+    "bob stewart": {
+      "Member": "Bob Stewart",
+      "Party": "Conservative",
+      "Constituency": "Beckenham",
+      "Vote": "No",
+      "lower_name": "bob stewart"
+    },
+    "iain stewart": {
+      "Member": "Iain Stewart",
+      "Party": "Conservative",
+      "Constituency": "Milton Keynes South",
+      "Vote": "No",
+      "lower_name": "iain stewart"
+    },
+    "jamie stone": {
+      "Member": "Jamie Stone",
+      "Party": "Liberal Democrat",
+      "Constituency": "Caithness, Sutherland and Easter Ross",
+      "Vote": "Aye",
+      "lower_name": "jamie stone"
+    },
+    "gary streeter": {
+      "Member": "Gary Streeter",
+      "Party": "Conservative",
+      "Constituency": "South West Devon",
+      "Vote": "No",
+      "lower_name": "gary streeter"
+    },
+    "wes streeting": {
+      "Member": "Wes Streeting",
+      "Party": "Labour",
+      "Constituency": "Ilford North",
+      "Vote": "Aye",
+      "lower_name": "wes streeting"
+    },
+    "mel stride": {
+      "Member": "Mel Stride",
+      "Party": "Conservative",
+      "Constituency": "Central Devon",
+      "Vote": "No",
+      "lower_name": "mel stride"
+    },
+    "graham stringer": {
+      "Member": "Graham Stringer",
+      "Party": "Labour",
+      "Constituency": "Blackley and Broughton",
+      "Vote": "No Vote Recorded",
+      "lower_name": "graham stringer"
+    },
+    "graham stuart": {
+      "Member": "Graham Stuart",
+      "Party": "Conservative",
+      "Constituency": "Beverley and Holderness",
+      "Vote": "No",
+      "lower_name": "graham stuart"
+    },
+    "julian sturdy": {
+      "Member": "Julian Sturdy",
+      "Party": "Conservative",
+      "Constituency": "York Outer",
+      "Vote": "No",
+      "lower_name": "julian sturdy"
+    },
+    "zarah sultana": {
+      "Member": "Zarah Sultana",
+      "Party": "Labour",
+      "Constituency": "Coventry South",
+      "Vote": "Aye",
+      "lower_name": "zarah sultana"
+    },
+    "rishi sunak": {
+      "Member": "Rishi Sunak",
+      "Party": "Conservative",
+      "Constituency": "Richmond (Yorks)",
+      "Vote": "No",
+      "lower_name": "rishi sunak"
+    },
+    "james sunderland": {
+      "Member": "James Sunderland",
+      "Party": "Conservative",
+      "Constituency": "Bracknell",
+      "Vote": "No",
+      "lower_name": "james sunderland"
+    },
+    "desmond swayne": {
+      "Member": "Desmond Swayne",
+      "Party": "Conservative",
+      "Constituency": "New Forest West",
+      "Vote": "No",
+      "lower_name": "desmond swayne"
+    },
+    "robert syms": {
+      "Member": "Robert Syms",
+      "Party": "Conservative",
+      "Constituency": "Poole",
+      "Vote": "No",
+      "lower_name": "robert syms"
+    },
+    "mark tami": {
+      "Member": "Mark Tami",
+      "Party": "Labour",
+      "Constituency": "Alyn and Deeside",
+      "Vote": "Aye",
+      "lower_name": "mark tami"
+    },
+    "sam tarry": {
+      "Member": "Sam Tarry",
+      "Party": "Labour",
+      "Constituency": "Ilford South",
+      "Vote": "Aye",
+      "lower_name": "sam tarry"
+    },
+    "alison thewliss": {
+      "Member": "Alison Thewliss",
+      "Party": "Scottish National Party",
+      "Constituency": "Glasgow Central",
+      "Vote": "No Vote Recorded",
+      "lower_name": "alison thewliss"
+    },
+    "derek thomas": {
+      "Member": "Derek Thomas",
+      "Party": "Conservative",
+      "Constituency": "St Ives",
+      "Vote": "No",
+      "lower_name": "derek thomas"
+    },
+    "gareth thomas": {
+      "Member": "Gareth Thomas",
+      "Party": "Labour",
+      "Constituency": "Harrow West",
+      "Vote": "Aye",
+      "lower_name": "gareth thomas"
+    },
+    "nick thomas-symonds": {
+      "Member": "Nick Thomas-Symonds",
+      "Party": "Labour",
+      "Constituency": "Torfaen",
+      "Vote": "Aye",
+      "lower_name": "nick thomas-symonds"
+    },
+    "owen thompson": {
+      "Member": "Owen Thompson",
+      "Party": "Scottish National Party",
+      "Constituency": "Midlothian",
+      "Vote": "Aye",
+      "lower_name": "owen thompson"
+    },
+    "richard thomson": {
+      "Member": "Richard Thomson",
+      "Party": "Scottish National Party",
+      "Constituency": "Gordon",
+      "Vote": "Aye",
+      "lower_name": "richard thomson"
+    },
+    "emily thornberry": {
+      "Member": "Emily Thornberry",
+      "Party": "Labour",
+      "Constituency": "Islington South and Finsbury",
+      "Vote": "Aye",
+      "lower_name": "emily thornberry"
+    },
+    "maggie throup": {
+      "Member": "Maggie Throup",
+      "Party": "Conservative",
+      "Constituency": "Erewash",
+      "Vote": "No",
+      "lower_name": "maggie throup"
+    },
+    "stephen timms": {
+      "Member": "Stephen Timms",
+      "Party": "Labour",
+      "Constituency": "East Ham",
+      "Vote": "Aye",
+      "lower_name": "stephen timms"
+    },
+    "edward timpson": {
+      "Member": "Edward Timpson",
+      "Party": "Conservative",
+      "Constituency": "Eddisbury",
+      "Vote": "No",
+      "lower_name": "edward timpson"
+    },
+    "kelly tolhurst": {
+      "Member": "Kelly Tolhurst",
+      "Party": "Conservative",
+      "Constituency": "Rochester and Strood",
+      "Vote": "No",
+      "lower_name": "kelly tolhurst"
+    },
+    "justin tomlinson": {
+      "Member": "Justin Tomlinson",
+      "Party": "Conservative",
+      "Constituency": "North Swindon",
+      "Vote": "No",
+      "lower_name": "justin tomlinson"
+    },
+    "michael tomlinson": {
+      "Member": "Michael Tomlinson",
+      "Party": "Conservative",
+      "Constituency": "Mid Dorset and North Poole",
+      "Vote": "No",
+      "lower_name": "michael tomlinson"
+    },
+    "craig tracey": {
+      "Member": "Craig Tracey",
+      "Party": "Conservative",
+      "Constituency": "North Warwickshire",
+      "Vote": "No",
+      "lower_name": "craig tracey"
+    },
+    "anne-marie trevelyan": {
+      "Member": "Anne-Marie Trevelyan",
+      "Party": "Conservative",
+      "Constituency": "Berwick-upon-Tweed",
+      "Vote": "No",
+      "lower_name": "anne-marie trevelyan"
+    },
+    "jon trickett": {
+      "Member": "Jon Trickett",
+      "Party": "Labour",
+      "Constituency": "Hemsworth",
+      "Vote": "Aye",
+      "lower_name": "jon trickett"
+    },
+    "laura trott": {
+      "Member": "Laura Trott",
+      "Party": "Conservative",
+      "Constituency": "Sevenoaks",
+      "Vote": "No",
+      "lower_name": "laura trott"
+    },
+    "liz truss": {
+      "Member": "Elizabeth Truss",
+      "Party": "Conservative",
+      "Constituency": "South West Norfolk",
+      "Vote": "No",
+      "lower_name": "liz truss"
+    },
+    "tom tugendhat": {
+      "Member": "Tom Tugendhat",
+      "Party": "Conservative",
+      "Constituency": "Tonbridge and Malling",
+      "Vote": "No",
+      "lower_name": "tom tugendhat"
+    },
+    "karl turner": {
+      "Member": "Karl Turner",
+      "Party": "Labour",
+      "Constituency": "Kingston upon Hull East",
+      "Vote": "No Vote Recorded",
+      "lower_name": "karl turner"
+    },
+    "derek twigg": {
+      "Member": "Derek Twigg",
+      "Party": "Labour",
+      "Constituency": "Halton",
+      "Vote": "Aye",
+      "lower_name": "derek twigg"
+    },
+    "liz twist": {
+      "Member": "Liz Twist",
+      "Party": "Labour",
+      "Constituency": "Blaydon",
+      "Vote": "No Vote Recorded",
+      "lower_name": "liz twist"
+    },
+    "shailesh vara": {
+      "Member": "Shailesh Vara",
+      "Party": "Conservative",
+      "Constituency": "North West Cambridgeshire",
+      "Vote": "No",
+      "lower_name": "shailesh vara"
+    },
+    "valerie vaz": {
+      "Member": "Valerie Vaz",
+      "Party": "Labour",
+      "Constituency": "Walsall South",
+      "Vote": "Aye",
+      "lower_name": "valerie vaz"
+    },
+    "martin vickers": {
+      "Member": "Martin Vickers",
+      "Party": "Conservative",
+      "Constituency": "Cleethorpes",
+      "Vote": "No",
+      "lower_name": "martin vickers"
+    },
+    "matt vickers": {
+      "Member": "Matt Vickers",
+      "Party": "Conservative",
+      "Constituency": "Stockton South",
+      "Vote": "No",
+      "lower_name": "matt vickers"
+    },
+    "theresa villiers": {
+      "Member": "Theresa Villiers",
+      "Party": "Conservative",
+      "Constituency": "Chipping Barnet",
+      "Vote": "No",
+      "lower_name": "theresa villiers"
+    },
+    "christian wakeford": {
+      "Member": "Christian Wakeford",
+      "Party": "Labour",
+      "Constituency": "Bury South",
+      "Vote": "Aye",
+      "lower_name": "christian wakeford"
+    },
+    "robin walker": {
+      "Member": "Robin Walker",
+      "Party": "Conservative",
+      "Constituency": "Worcester",
+      "Vote": "No",
+      "lower_name": "robin walker"
+    },
+    "charles walker": {
+      "Member": "Charles Walker",
+      "Party": "Conservative",
+      "Constituency": "Broxbourne",
+      "Vote": "No",
+      "lower_name": "charles walker"
+    },
+    "ben wallace": {
+      "Member": "Ben Wallace",
+      "Party": "Conservative",
+      "Constituency": "Wyre and Preston North",
+      "Vote": "No Vote Recorded",
+      "lower_name": "ben wallace"
+    },
+    "jamie wallis": {
+      "Member": "Jamie Wallis",
+      "Party": "Conservative",
+      "Constituency": "Bridgend",
+      "Vote": "No",
+      "lower_name": "jamie wallis"
+    },
+    "david warburton": {
+      "Member": "David Warburton",
+      "Party": "Independent",
+      "Constituency": "Somerton and Frome",
+      "Vote": "No Vote Recorded",
+      "lower_name": "david warburton"
+    },
+    "matt warman": {
+      "Member": "Matt Warman",
+      "Party": "Conservative",
+      "Constituency": "Boston and Skegness",
+      "Vote": "No",
+      "lower_name": "matt warman"
+    },
+    "giles watling": {
+      "Member": "Giles Watling",
+      "Party": "Conservative",
+      "Constituency": "Clacton",
+      "Vote": "No",
+      "lower_name": "giles watling"
+    },
+    "suzanne webb": {
+      "Member": "Suzanne Webb",
+      "Party": "Conservative",
+      "Constituency": "Stourbridge",
+      "Vote": "No",
+      "lower_name": "suzanne webb"
+    },
+    "claudia webbe": {
+      "Member": "Claudia Webbe",
+      "Party": "Independent",
+      "Constituency": "Leicester East",
+      "Vote": "No Vote Recorded",
+      "lower_name": "claudia webbe"
+    },
+    "catherine west": {
+      "Member": "Catherine West",
+      "Party": "Labour",
+      "Constituency": "Hornsey and Wood Green",
+      "Vote": "Aye",
+      "lower_name": "catherine west"
+    },
+    "matt western": {
+      "Member": "Matt Western",
+      "Party": "Labour",
+      "Constituency": "Warwick and Leamington",
+      "Vote": "Aye",
+      "lower_name": "matt western"
+    },
+    "helen whately": {
+      "Member": "Helen Whately",
+      "Party": "Conservative",
+      "Constituency": "Faversham and Mid Kent",
+      "Vote": "No",
+      "lower_name": "helen whately"
+    },
+    "heather wheeler": {
+      "Member": "Heather Wheeler",
+      "Party": "Conservative",
+      "Constituency": "South Derbyshire",
+      "Vote": "No",
+      "lower_name": "heather wheeler"
+    },
+    "alan whitehead": {
+      "Member": "Alan Whitehead",
+      "Party": "Labour",
+      "Constituency": "Southampton, Test",
+      "Vote": "Aye",
+      "lower_name": "alan whitehead"
+    },
+    "philippa whitford": {
+      "Member": "Philippa Whitford",
+      "Party": "Scottish National Party",
+      "Constituency": "Central Ayrshire",
+      "Vote": "Aye",
+      "lower_name": "philippa whitford"
+    },
+    "mick whitley": {
+      "Member": "Mick Whitley",
+      "Party": "Labour",
+      "Constituency": "Birkenhead",
+      "Vote": "Aye",
+      "lower_name": "mick whitley"
+    },
+    "craig whittaker": {
+      "Member": "Craig Whittaker",
+      "Party": "Conservative",
+      "Constituency": "Calder Valley",
+      "Vote": "No",
+      "lower_name": "craig whittaker"
+    },
+    "john whittingdale": {
+      "Member": "John Whittingdale",
+      "Party": "Conservative",
+      "Constituency": "Maldon",
+      "Vote": "No Vote Recorded",
+      "lower_name": "john whittingdale"
+    },
+    "nadia whittome": {
+      "Member": "Nadia Whittome",
+      "Party": "Labour",
+      "Constituency": "Nottingham East",
+      "Vote": "Aye",
+      "lower_name": "nadia whittome"
+    },
+    "bill wiggin": {
+      "Member": "Bill Wiggin",
+      "Party": "Conservative",
+      "Constituency": "North Herefordshire",
+      "Vote": "No",
+      "lower_name": "bill wiggin"
+    },
+    "james wild": {
+      "Member": "James Wild",
+      "Party": "Conservative",
+      "Constituency": "North West Norfolk",
+      "Vote": "No",
+      "lower_name": "james wild"
+    },
+    "craig williams": {
+      "Member": "Craig Williams",
+      "Party": "Conservative",
+      "Constituency": "Montgomeryshire",
+      "Vote": "No",
+      "lower_name": "craig williams"
+    },
+    "hywel williams": {
+      "Member": "Hywel Williams",
+      "Party": "Plaid Cymru",
+      "Constituency": "Arfon",
+      "Vote": "Aye",
+      "lower_name": "hywel williams"
+    },
+    "gavin williamson": {
+      "Member": "Gavin Williamson",
+      "Party": "Conservative",
+      "Constituency": "South Staffordshire",
+      "Vote": "No",
+      "lower_name": "gavin williamson"
+    },
+    "munira wilson": {
+      "Member": "Munira Wilson",
+      "Party": "Liberal Democrat",
+      "Constituency": "Twickenham",
+      "Vote": "Aye",
+      "lower_name": "munira wilson"
+    },
+    "sammy wilson": {
+      "Member": "Sammy Wilson",
+      "Party": "Democratic Unionist Party",
+      "Constituency": "East Antrim",
+      "Vote": "No Vote Recorded",
+      "lower_name": "sammy wilson"
+    },
+    "beth winter": {
+      "Member": "Beth Winter",
+      "Party": "Labour",
+      "Constituency": "Cynon Valley",
+      "Vote": "Aye",
+      "lower_name": "beth winter"
+    },
+    "rosie winterton": {
+      "Member": "Rosie Winterton",
+      "Party": "Deputy Speaker",
+      "Constituency": "Doncaster Central",
+      "Vote": "No Vote Recorded",
+      "lower_name": "rosie winterton"
+    },
+    "pete wishart": {
+      "Member": "Pete Wishart",
+      "Party": "Scottish National Party",
+      "Constituency": "Perth and North Perthshire",
+      "Vote": "No Vote Recorded",
+      "lower_name": "pete wishart"
+    },
+    "mike wood": {
+      "Member": "Mike Wood",
+      "Party": "Conservative",
+      "Constituency": "Dudley South",
+      "Vote": "No",
+      "lower_name": "mike wood"
+    },
+    "william wragg": {
+      "Member": "William Wragg",
+      "Party": "Conservative",
+      "Constituency": "Hazel Grove",
+      "Vote": "No Vote Recorded",
+      "lower_name": "william wragg"
+    },
+    "jeremy  wright": {
+      "Member": "Jeremy  Wright",
+      "Party": "Conservative",
+      "Constituency": "Kenilworth and Southam",
+      "Vote": "No Vote Recorded",
+      "lower_name": "jeremy  wright"
+    },
+    "mohammad yasin": {
+      "Member": "Mohammad Yasin",
+      "Party": "Labour",
+      "Constituency": "Bedford",
+      "Vote": "Aye",
+      "lower_name": "mohammad yasin"
+    },
+    "jacob young": {
+      "Member": "Jacob Young",
+      "Party": "Conservative",
+      "Constituency": "Redcar",
+      "Vote": "No",
+      "lower_name": "jacob young"
+    },
+    "nadhim zahawi": {
+      "Member": "Nadhim Zahawi",
+      "Party": "Conservative",
+      "Constituency": "Stratford-on-Avon",
+      "Vote": "No",
+      "lower_name": "nadhim zahawi"
+    },
+    "daniel zeichner": {
+      "Member": "Daniel Zeichner",
+      "Party": "Labour",
+      "Constituency": "Cambridge",
+      "Vote": "Aye",
+      "lower_name": "daniel zeichner"
+    }
+  }
+}

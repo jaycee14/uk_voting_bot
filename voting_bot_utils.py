@@ -104,6 +104,21 @@ def get_file_from_gcp_bucket_test(filename) -> dict:
 
     return data
 
+def update_webpage(webpage_str:str,filename='web/main.html'):
+
+    update_webpage_data_gcp_bucket_file(webpage_str,filename)
+
+
+def update_webpage_data_gcp_bucket_file(data: str, filename: str):
+    bucket_name = os.getenv(PROJECT_BUCKET_REF)
+
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+    blob = bucket.blob(filename)
+    
+    blob.upload_from_string(data, content_type='text/html')
+    blob.make_public()
+
 
 #############################################################################
 #################  Process Functions ########################################
